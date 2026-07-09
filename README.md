@@ -306,10 +306,9 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <td width="33%" align="center">
 <img src="CityManager.jpg" width="100%">
 </td>
-</tr>
 
-<tr>
-.<td width="33%" align="center">
+
+<td width="33%" align="center">
 <img src="DremHouse.jpg" width="100%">
 </td>
 
