@@ -258,26 +258,29 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
 <h2>🌐 Web Development Portfolio</h2>
 
-
-<br><br>
-
 <br>
 
-<h3>📌 Proyectos Desarrollados</h3>
-
-<ul>
-<li>🚀 Landing Pages comerciales y promocionales</li>
-<li>🌐 Sitios web corporativos e institucionales</li>
-<li>🏢 Páginas empresariales con WordPress y PHP</li>
-<li>🛒 Tiendas en línea con WooCommerce y Shopify</li>
-<li>📦 Catálogos digitales de productos y servicios</li>
-<li>⚙️ Desarrollo de páginas web personalizadas</li>
-<li>🎨 Diseño de interfaces responsivas enfocadas en experiencia de usuario</li>
-<li>🔧 Integración de plugins, formularios, SEO básico y optimización web</li>
-</ul>
-
-
+<h3>📌 Developed Projects</h3>
+#### LANDING PAGES
+######  - Commercial and Promotional Landing Pages
+######  - Landing Pages with Forms
+######  - Digital Product and Service Catalogs
+######  - Custom Website Development
 <br>
+#### WEBSITE DEVELOPMENT
+######  - Corporate and Institutional Websites
+<br>
+#### WEB PAGES
+######  - Wordpress
+######  - PHP
+###### - Plugin Integration, Forms, Basic SEO, and Web Optimization
+###### - Payment Gateway Integration
+<br>
+#### E-COMMERCE DEVELOPMENT
+######  - WooCommerce
+######  - Shopify
+<br>
+
 
 <h3>🖼️ Galería de Proyectos</h3>
 
