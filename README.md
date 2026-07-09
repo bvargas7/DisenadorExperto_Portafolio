@@ -38,6 +38,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
         <li>Web Developer</li>
         <li>Graphic Designer</li>
         <li>Video Editor</li>
+        <li>UX/UI Designer</li>
         <li>Community Manager</li>
       </ul>
     </td>
