@@ -303,11 +303,15 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <tr>
 
 <td width="50%" align="center">
-    <img src="BestMark.jpg" class="project-img" alt="BestMark Website">
+    <img src="https://drive.google.com/uc?export=view&id=18cr1R1N7eYoJ5R6d9R2RGfBG7twMAoKH" 
+class="project-img" 
+alt="BestMark Website">
 </td>
 
 <td width="50%" align="center">
-    <img src="CityManager.jpg" class="project-img" alt="CityManager Website">
+    <img src="https://drive.google.com/uc?export=view&id=1ISQVwExckYlxXge9R_nuHKBKDzUzvibw"
+     class="project-img"
+     alt="BestMark Website">
 </td>
 
 </tr>
@@ -316,11 +320,15 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <tr>
 
 <td width="50%" align="center">
-    <img src="DreamHouse.jpg" class="project-img" alt="DreamHouse Website">
+     <img src="https://drive.google.com/uc?export=view&id=1ae-46zJDs1JUPQ1XOdOG4ERxM1ylkILp"
+     class="project-img"
+     alt="Proyecto Website">
 </td>
 
 <td width="50%" align="center">
-    <img src="IdeaBrilla.jpg" class="project-img" alt="IdeaBrilla Website">
+    <img src="https://drive.google.com/uc?export=view&id=16UZd4SjZdQJAGY5zpN-pvVwrAKR1Rjw8"
+     class="project-img"
+     alt="Proyecto Web">
 </td>
 
 </tr>
