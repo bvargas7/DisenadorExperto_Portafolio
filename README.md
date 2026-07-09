@@ -255,8 +255,200 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
 ## Web Development
 
-Texto aquí...
+<h2>🌐 Web Development Portfolio</h2>
 
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Landing_Pages-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white">
+
+<br><br>
+
+🚀 Landing Pages Responsive
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Business_Websites-0052CC?style=for-the-badge&logo=wordpress&logoColor=white">
+
+<br><br>
+
+🏢 Sitios Web Empresariales
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/E--Commerce-7F54B3?style=for-the-badge&logo=woocommerce&logoColor=white">
+
+<br><br>
+
+🛒 Tiendas en Línea
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Online_Catalogs-FF9800?style=for-the-badge">
+
+<br><br>
+
+📚 Catálogos Digitales
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/PHP_Websites-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
+<br><br>
+
+💻 Desarrollo Web PHP
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/UI/UX-7952B3?style=for-the-badge&logo=figma&logoColor=white">
+
+<br><br>
+
+🎨 Diseño UI/UX Responsive
+
+</td>
+
+</tr>
+
+</table>
+
+
+<br>
+
+<h3>📌 Proyectos Desarrollados</h3>
+
+<ul>
+<li>🚀 Landing Pages comerciales y promocionales</li>
+<li>🌐 Sitios web corporativos e institucionales</li>
+<li>🏢 Páginas empresariales con WordPress y PHP</li>
+<li>🛒 Tiendas en línea con WooCommerce y Shopify</li>
+<li>📦 Catálogos digitales de productos y servicios</li>
+<li>⚙️ Desarrollo de páginas web personalizadas</li>
+<li>🎨 Diseño de interfaces responsivas enfocadas en experiencia de usuario</li>
+<li>🔧 Integración de plugins, formularios, SEO básico y optimización web</li>
+</ul>
+
+
+<br>
+
+<h3>🖼️ Galería de Proyectos</h3>
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+<img src="https://via.placeholder.com/350x200.png?text=Landing+Page" width="100%">
+
+<br>
+
+<b>Landing Pages</b>
+
+<br>
+
+Diseños modernos y optimizados para conversión
+
+</td>
+
+
+<td width="33%" align="center">
+
+<img src="https://via.placeholder.com/350x200.png?text=Corporate+Website" width="100%">
+
+<br>
+
+<b>Sitios Empresariales</b>
+
+<br>
+
+Páginas web profesionales para negocios
+
+</td>
+
+
+<td width="33%" align="center">
+
+<img src="https://via.placeholder.com/350x200.png?text=Ecommerce" width="100%">
+
+<br>
+
+<b>Tiendas Online</b>
+
+<br>
+
+Soluciones e-commerce con WooCommerce
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="33%" align="center">
+
+<img src="https://via.placeholder.com/350x200.png?text=WordPress" width="100%">
+
+<br>
+
+<b>WordPress Projects</b>
+
+<br>
+
+Desarrollo y personalización CMS
+
+</td>
+
+
+<td width="33%" align="center">
+
+<img src="https://via.placeholder.com/350x200.png?text=PHP+Development" width="100%">
+
+<br>
+
+<b>PHP Websites</b>
+
+<br>
+
+Aplicaciones web personalizadas
+
+</td>
+
+
+<td width="33%" align="center">
+
+<img src="https://via.placeholder.com/350x200.png?text=UI+UX+Design" width="100%">
+
+<br>
+
+<b>UI/UX Design</b>
+
+<br>
+
+Interfaces adaptables y modernas
+
+</td>
+
+</tr>
+
+</table>
 ## Video Editing
 
 Texto aquí...
