@@ -1,6 +1,7 @@
 <p align="center">
   <img src="Logo.jpg" alt="Designer Expert Logo" width="700">
 </p>
+
 # Disenador Experto:  Portfolio
 
 ### Web Development • Process Automation • Graphic Design • Video Editing • Quality Assurance
