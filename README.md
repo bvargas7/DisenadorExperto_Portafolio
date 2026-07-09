@@ -27,20 +27,19 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
 <img src="https://img.shields.io/badge/-About%20Shafaatullah Shah-blue" height="33">
 
-<table align="center">
+<table>
   <tr>
-    <td align="center">
-      <img src="EL .png" alt="Our Team" width="300">
+    <td width="40%" align="center">
+      <img src="EL .pmg" alt="Web Developer" width="500">
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td width="60%" valign="top">
+      <h3>Why Work With Us?</h3>
       <ul>
-        <li>Web Development</li>
-        <li>Video Editing</li>
-        <li>Graphic Design</li>
-        <li>Process Automation</li>
-        <li>Quality Assurance</li>
+        <li>Multidisciplinary expertise across technology and creative services</li>
+        <li>End-to-end project delivery, from planning to implementation</li>
+        <li>Focus on quality, performance, and user experience</li>
+        <li>Creative problem-solving backed by technical expertise</li>
+        <li>Clear communication and close collaboration with clients</li>
       </ul>
     </td>
   </tr>
