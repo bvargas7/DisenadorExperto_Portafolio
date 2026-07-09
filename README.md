@@ -2,6 +2,8 @@
   <img src="ruta-del-banner.png" alt="Diseñador Experto" width="700">
 </div>
 
+
+
 # Diseñador Experto: Portfolio
 
 ### Web Development • Process Automation • Graphic Design • Video Editing • Quality Assurance
