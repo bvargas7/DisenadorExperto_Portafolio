@@ -205,6 +205,17 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Decision_Tables-6D4C41?style=for-the-badge">
 <img src="https://img.shields.io/badge/State_Transition-8E24AA?style=for-the-badge">
 <img src="https://img.shields.io/badge/Cross_Browser_Testing-455A64?style=for-the-badge">
+
+<br><br>
+
+<h4>💻 Front-End Jr.</h4>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
+<img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
       </ul>
     </td>
   </tr>
