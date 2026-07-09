@@ -85,7 +85,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
   
 </table>
-<img src="https://img.shields.io/badge/-About%20Blanca Vargas-blue" height="50">
+
 
 <table>
   <tr>
