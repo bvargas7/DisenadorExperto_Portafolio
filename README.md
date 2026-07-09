@@ -252,8 +252,8 @@ Our mission is simple: to provide professional, reliable, and innovative service
 </table>
 
 <!----------------------------------- WEB PROJECTS ------------------------------------------------->
-
-
+<br><br>
+------
 
 <h2>🌐 Web Development Portfolio</h2>
 
@@ -448,6 +448,10 @@ Interfaces adaptables y modernas
 
 </tr>
 
+
+<!----------------------------------- WEB PROJECTS ------------------------------------------------->
+<br><br>
+------
 </table>
 ## Video Editing
 
