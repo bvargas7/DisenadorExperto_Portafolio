@@ -310,7 +310,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
 <tr>
 .<td width="33%" align="center">
-<img src="DremHouse" width="100%">
+<img src="DremHouse.jpg" width="100%">
 </td>
 
 
