@@ -80,6 +80,18 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white">
 
+<br><br>
+
+<h4>📱 Android Developer</h4>
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge">
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+
    </td>
   </tr>
 
@@ -105,7 +117,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge">
 
-<br><br>
+<br>
 
 <h4>🧪 QA Manual & Functional</h4>
 
@@ -129,7 +141,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Snipping_Tool-0078D4?style=for-the-badge">
 
-<br><br>
+<br>
 
 <h4>🤖 QA Automation</h4>
 
@@ -142,7 +154,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-<br><br>
+<br>
 
 <h4>📋 Product Owner / Project Management</h4>
 
@@ -159,7 +171,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge">
 
-<br><br>
+<br>
 
 <h4>📚 Documentation</h4>
 
@@ -167,7 +179,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Lucidchart-FE7A16?style=for-the-badge">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
-<br><br>
+<br>
 
 <h4>⚙️ Methodologies</h4>
 
@@ -176,7 +188,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Agile-00C853?style=for-the-badge">
 <img src="https://img.shields.io/badge/Waterfall-607D8B?style=for-the-badge">
 
-<br><br>
+<br>
 
 <h4>✅ QA Knowledge</h4>
 
@@ -206,7 +218,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/State_Transition-8E24AA?style=for-the-badge">
 <img src="https://img.shields.io/badge/Cross_Browser_Testing-455A64?style=for-the-badge">
 
-<br><br>
+<br>
 
 <h4>💻 Front-End Jr.</h4>
 
@@ -216,6 +228,26 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+
+<br>
+<h4>📲 Android & iOS Testing</h4>
+
+<img src="https://img.shields.io/badge/Android_Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/iOS_Testing-000000?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Charles_Proxy-F57C00?style=for-the-badge">
+<img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white">
+
+<br>
+<h4>🐍 Programming Languages</h4>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
       </ul>
     </td>
   </tr>
