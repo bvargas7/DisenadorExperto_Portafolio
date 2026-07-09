@@ -295,29 +295,34 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
 <h3>🖼️ Galería de Proyectos</h3>
 
-<table>
+<table width="100%" cellpadding="10" cellspacing="10">
 
 <tr>
-<td width="33%" align="center">
-<img src="BestMark.jpg" width="100%">
+
+<td width="50%" align="center">
+    <img src="BestMark.jpg" width="90%" style="max-height:350px; object-fit:contain;">
 </td>
 
-
-<td width="33%" align="center">
-<img src="CityManager.jpg" width="100%">
+<td width="50%" align="center">
+    <img src="CityManager.jpg" width="90%" style="max-height:350px; object-fit:contain;">
 </td>
+
 </tr>
+
 
 <tr>
-<td width="33%" align="center">
-<img src="DremHouse.jpg" width="100%">
+
+<td width="50%" align="center">
+    <img src="DremHouse.jpg" width="90%" style="max-height:350px; object-fit:contain;">
 </td>
 
-<td width="33%" align="center">
-<img src="IdeaBrilla.jpg" width="100%">
+<td width="50%" align="center">
+    <img src="IdeaBrilla.jpg" width="90%" style="max-height:350px; object-fit:contain;">
 </td>
+
 </tr>
 
+</table>
 
 <!----------------------------------- WEB PROJECTS ------------------------------------------------->
 <br><br>
