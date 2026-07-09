@@ -313,7 +313,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <tr>
 
 <td width="50%" align="center">
-    <img src="DremHouse.jpg" width="90%" style="max-height:350px; object-fit:contain;">
+    <img src="DreamHouse.jpg" width="90%" style="max-height:350px; object-fit:contain;">
 </td>
 
 <td width="50%" align="center">
