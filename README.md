@@ -28,12 +28,12 @@ We believe that successful projects are built on clear communication, continuous
 Our mission is simple: to provide professional, reliable, and innovative services that help our clients achieve their objectives efficiently and confidently.
 </div
 
-<img src="https://img.shields.io/badge/-About%20Shafaatullah Shah-blue" height="33">
+<img src="https://img.shields.io/badge/-About%20About Team-blue" height="33">
 
 <table>
   <tr>
     <!-- Foto -->
-    <td width="30%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <img src="EL.png" alt="Shafaatullah Shah" width="300">
     </td>
 
