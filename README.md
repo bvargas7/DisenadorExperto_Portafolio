@@ -35,17 +35,16 @@ Our mission is simple: to provide professional, reliable, and innovative service
     <td width="60%" valign="top">
       <h3>Shafaatullah Shah</h3>
       <ul>
-        <li>Multidisciplinary expertise across technology and creative services</li>
-        <li>End-to-end project delivery, from planning to implementation</li>
-        <li>Focus on quality, performance, and user experience</li>
-        <li>Creative problem-solving backed by technical expertise</li>
-        <li>Clear communication and close collaboration with clients</li>
+        <li>Web Developer</li>
+        <li>Graphic Designer</li>
+        <li>Video Editor</li>
+        <li>Community Manager</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<img src="https://img.shields.io/badge/-About%20Shafaatullah Shah-blue" height="33">
+<img src="https://img.shields.io/badge/-About%20Blanca Vargas-blue" height="33">
 
 <table>
   <tr>
@@ -55,11 +54,11 @@ Our mission is simple: to provide professional, reliable, and innovative service
     <td width="60%" valign="top">
       <h3>Blanca Vargas</h3>
       <ul>
-        <li>Multidisciplinary expertise across technology and creative services</li>
-        <li>End-to-end project delivery, from planning to implementation</li>
-        <li>Focus on quality, performance, and user experience</li>
-        <li>Creative problem-solving backed by technical expertise</li>
-        <li>Clear communication and close collaboration with clients</li>
+        <li>Data Analist</li>
+        <li>QA Manuak/li>
+        <li>QA Functional</li>
+        <li>QA Automation</li>
+        <li>Project Manager</li>
       </ul>
     </td>
   </tr>
