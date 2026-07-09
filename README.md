@@ -258,12 +258,6 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
 <h2>🌐 Web Development Portfolio</h2>
 
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/Landing_Pages-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white">
 
 <br><br>
 
