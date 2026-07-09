@@ -103,10 +103,10 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <!----------------------------------- ABOUT US: Blanca ------------------------------------------------->
 <table>
   <tr>
-    <td width="40%" align="center">
-    <img src="Yo.jpg" alt="QA Ana" width="400">
-    <h3>Blanca Vargas</h3>
-    </td>
+<td width="50%" align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1xjLvl_rzOGXQHEPw6GvmI1UVdw5IVvFS"
+    class="project-img">
+</td>
     <td width="40%" valign="top">
 <h3>Expertise</h3>
 
