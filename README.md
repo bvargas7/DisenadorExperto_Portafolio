@@ -36,7 +36,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
       <img src="EL .png" alt="QA Ana" width="300">
     </td>
     <td>
-### Shafaatullah Shah
+<h3>Shafaatullah Shah</h3>
 <ul> 💻 Web Developer </li>
 <ul> 🎨 Graphic Designer </li>
 <ul> 🎬 Video Editor </li>
