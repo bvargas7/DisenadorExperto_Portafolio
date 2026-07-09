@@ -261,24 +261,35 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <br>
 
 <h3>📌 Developed Projects</h3>
+
 #### LANDING PAGES
-######  - Commercial and Promotional Landing Pages
-######  - Landing Pages with Forms
-######  - Digital Product and Service Catalogs
-######  - Custom Website Development
+
+- Commercial and Promotional Landing Pages
+- Landing Pages with Forms
+- Digital Product and Service Catalogs
+- Custom Website Development
+
 <br>
+
 #### WEBSITE DEVELOPMENT
-######  - Corporate and Institutional Websites
+
+- Corporate and Institutional Websites
+
 <br>
+
 #### WEB PAGES
-######  - Wordpress
-######  - PHP
-###### - Plugin Integration, Forms, Basic SEO, and Web Optimization
-###### - Payment Gateway Integration
+
+- WordPress
+- PHP
+- Plugin Integration, Forms, Basic SEO, and Web Optimization
+- Payment Gateway Integration
+
 <br>
+
 #### E-COMMERCE DEVELOPMENT
-######  - WooCommerce
-######  - Shopify
+
+- WooCommerce
+- Shopify
 <br>
 
 
