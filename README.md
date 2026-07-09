@@ -325,11 +325,11 @@ Our mission is simple: to provide professional, reliable, and innovative service
 </table>
 
 
-<!----------------------------------- WEB PROJECTS ------------------------------------------------->
+<!----------------------------------- Video Editing------------------------------------------------->
 <br><br>
 ------
 </table>
-## Video Editing
+<h2> Video Editing </h2>h2>
 
 Texto aquí...
 
