@@ -267,69 +267,6 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
 <br><br>
 
-🚀 Landing Pages Responsive
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/Business_Websites-0052CC?style=for-the-badge&logo=wordpress&logoColor=white">
-
-<br><br>
-
-🏢 Sitios Web Empresariales
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/E--Commerce-7F54B3?style=for-the-badge&logo=woocommerce&logoColor=white">
-
-<br><br>
-
-🛒 Tiendas en Línea
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/Online_Catalogs-FF9800?style=for-the-badge">
-
-<br><br>
-
-📚 Catálogos Digitales
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/PHP_Websites-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
-<br><br>
-
-💻 Desarrollo Web PHP
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/UI/UX-7952B3?style=for-the-badge&logo=figma&logoColor=white">
-
-<br><br>
-
-🎨 Diseño UI/UX Responsive
-
-</td>
-
-</tr>
-
-</table>
-
-
 <br>
 
 <h3>📌 Proyectos Desarrollados</h3>
