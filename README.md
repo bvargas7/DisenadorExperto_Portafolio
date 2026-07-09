@@ -59,7 +59,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
         <li>QA Functional</li>
         <li>QA Automation</li>
         <li>Project Manager</li>
-        <li>B.Sc. in Computer Science</li>
+        <li>B.Sc.in Computer Science</li>
       </ul>
     </td>
   </tr>
