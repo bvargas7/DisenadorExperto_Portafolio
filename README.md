@@ -45,6 +45,27 @@ Our mission is simple: to provide professional, reliable, and innovative service
   </tr>
 </table>
 
+<img src="https://img.shields.io/badge/-About%20Shafaatullah Shah-blue" height="33">
+
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="Yo.png" alt="QA Ana" width="250">
+    </td>
+    <td width="60%" valign="top">
+      <h3>Blanca Vargas</h3>
+      <ul>
+        <li>Multidisciplinary expertise across technology and creative services</li>
+        <li>End-to-end project delivery, from planning to implementation</li>
+        <li>Focus on quality, performance, and user experience</li>
+        <li>Creative problem-solving backed by technical expertise</li>
+        <li>Clear communication and close collaboration with clients</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 
 ## Web Development
 
