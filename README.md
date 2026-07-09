@@ -37,11 +37,12 @@ Our mission is simple: to provide professional, reliable, and innovative service
     </td>
     <td>
 <h3>Shafaatullah Shah</h3>
-<ul> 💻 Web Developer </li>
-<ul> 🎨 Graphic Designer </li>
-<ul> 🎬 Video Editor </li>
-<ul> ⚡ Automation Specialist </li>
-<ul> 📱 Community Manager </li>
+      
+##💻 Web Developer 
+##🎨 Graphic Designer
+##🎬 Video Editor
+##⚡ Automation Specialist
+##📱 Community Manager
    </td>
 
    <td width="40%" valign="top">
