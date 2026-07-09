@@ -27,6 +27,26 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
 <img src="https://img.shields.io/badge/-About%20Shafaatullah Shah-blue" height="33">
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/team-photo.jpg" alt="Our Team" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Web Development</li>
+        <li>Video Editing</li>
+        <li>Graphic Design</li>
+        <li>Process Automation</li>
+        <li>Quality Assurance</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 ## Web Development
 
 Texto aquí...
