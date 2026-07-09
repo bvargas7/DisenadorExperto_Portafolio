@@ -300,80 +300,24 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <tr>
 
 <td width="33%" align="center">
-
-<img src="https://via.placeholder.com/350x200.png?text=Landing+Page" width="100%">
-
-<br>
-
-<b>Landing Pages</b>
-
-<br>
-
-Diseños modernos y optimizados para conversión
-
+<img src="BestMark.jpg" width="100%">
 </td>
-
 
 <td width="33%" align="center">
-
-<img src="https://via.placeholder.com/350x200.png?text=Corporate+Website" width="100%">
-
-<br>
-
-<b>Sitios Empresariales</b>
-
-<br>
-
-Páginas web profesionales para negocios
-
+<img src="CityManager.jpg" width="100%">
 </td>
-
-
-<td width="33%" align="center">
-
-<img src="https://via.placeholder.com/350x200.png?text=Ecommerce" width="100%">
-
-<br>
-
-<b>Tiendas Online</b>
-
-<br>
-
-Soluciones e-commerce con WooCommerce
-
-</td>
-
 </tr>
 
-
 <tr>
+.<td width="33%" align="center">
 
-<td width="33%" align="center">
-
-<img src="https://via.placeholder.com/350x200.png?text=WordPress" width="100%">
-
-<br>
-
-<b>WordPress Projects</b>
-
-<br>
-
-Desarrollo y personalización CMS
-
+<img src="DremHouse" width="100%">
 </td>
 
 
 <td width="33%" align="center">
 
-<img src="https://via.placeholder.com/350x200.png?text=PHP+Development" width="100%">
-
-<br>
-
-<b>PHP Websites</b>
-
-<br>
-
-Aplicaciones web personalizadas
+<img src="IdeaBrilla.jpg" width="100%">
 
 </td>
 
