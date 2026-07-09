@@ -1,6 +1,6 @@
 <p align="center">
 <td width="40%" align="center">
-    <img src="[EL .png](https://drive.google.com/file/d/1BHi_yAp53-cRBiYYFAikDToO-7_tAmg_/view?usp=drive_link)" alt="QA Ana" width="470">
+    <img src="[[EL .png](https://drive.google.com/file/d/1BHi_yAp53-cRBiYYFAikDToO-7_tAmg_/view?usp=drive_link)](https://drive.google.com/uc?export=view&id=1BHi_yAp53-cRBiYYFAikDToO-7_tAmg_)" alt="Logo" width="470">
 </p>
 
 ## Diseñador Experto: Portfolio
