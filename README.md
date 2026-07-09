@@ -29,7 +29,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 </div
 
 <!----------------------------------- ABOUT US: Shafaath ------------------------------------------------->
-<img src="https://img.shields.io/badge/-About%20Blanca Vargas-blue" height="50">
+
 <table>
   <tr>
     <td width="40%" align="center">
