@@ -29,7 +29,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 </div
 
 
-<img src="https://img.shields.io/badge/-About%20Blanca Vargas-blue" height="33">
+<img src="https://img.shields.io/badge/-About%20Blanca Vargas-blue" height="50">
 <table>
   <tr>
     <td width="40%" align="center">
@@ -85,12 +85,12 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
   
 </table>
-<img src="https://img.shields.io/badge/-About%20Blanca Vargas-blue" height="33">
+<img src="https://img.shields.io/badge/-About%20Blanca Vargas-blue" height="50">
 
 <table>
   <tr>
     <td width="40%" align="center">
-    <img src="Yo.jpg" alt="QA Ana" width="300">
+    <img src="Yo.jpg" alt="QA Ana" width="400">
     <h3>Blanca Vargas</h3>
     </td>
     <td width="40%" valign="top">
