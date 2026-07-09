@@ -49,7 +49,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="Yo.jpg" alt="QA Ana" width="270">
+      <img src="Yo.jpg" alt="QA Ana" width="300">
     </td>
     <td width="60%" valign="top">
       <h3>Blanca Vargas</h3>
