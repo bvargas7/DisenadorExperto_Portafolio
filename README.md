@@ -261,6 +261,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <br>
 
 <h3>📌 Developed Projects</h3>
+<h3>📌 Developed Projects</h3>
 
 #### LANDING PAGES
 
@@ -290,8 +291,8 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
 - WooCommerce
 - Shopify
-<br>
 
+  <br>
 
 <h3>🖼️ Galería de Proyectos</h3>
 
