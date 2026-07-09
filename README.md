@@ -47,7 +47,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white">
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white">
 
-<br><br>
+<br>
 
 #### 🎨 Graphic Design
 
@@ -56,7 +56,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
 
-<br><br>
+<br>
 
 #### 🎬 Video Editing
 
@@ -64,7 +64,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Filmora-07273D?style=for-the-badge&logo=wondershare&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 
-<br><br>
+<br>
 
 #### 📱 Community Manager
 
@@ -80,7 +80,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white">
 
-<br><br>
+<br>
 
 <h4>📱 Android Developer</h4>
 
@@ -94,7 +94,6 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
    </td>
   </tr>
-
   
 </table>
 
@@ -247,7 +246,6 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
       </ul>
     </td>
   </tr>
