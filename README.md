@@ -2,7 +2,7 @@
   <img src="Logo.jpg" width="500">
 </p>
 
-# Diseñador Experto: Portfolio
+#H1 Diseñador Experto: Portfolio
 
 ### Web Development • Process Automation • Graphic Design • Video Editing • Quality Assurance
 
