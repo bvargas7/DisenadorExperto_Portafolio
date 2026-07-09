@@ -30,7 +30,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="EL .png" alt="Web Developer" width="310">
+      <img src="EL .png" alt="Web Developer" width="330">
     </td>
     <td width="60%" valign="top">
       <h3>Shafaatullah Shah</h3>
@@ -55,7 +55,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
     <td width="60%" valign="top">
       <h3>Blanca Vargas</h3>
       <ul>
-        <li>Data Analist</li>
+        <li>Data Analyst</li>
         <li>QA Manual</li>
         <li>QA Functional</li>
         <li>QA Automation</li>
