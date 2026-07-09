@@ -55,10 +55,11 @@ Our mission is simple: to provide professional, reliable, and innovative service
       <h3>Blanca Vargas</h3>
       <ul>
         <li>Data Analist</li>
-        <li>QA Manuak</li>
+        <li>QA Manual</li>
         <li>QA Functional</li>
         <li>QA Automation</li>
         <li>Project Manager</li>
+        <li>Bachelor's Degree in Computer Science</li>
       </ul>
     </td>
   </tr>
