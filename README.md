@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="Logo.jpg" alt="Designer Expert Logo" width="700">
+  <img src="ruta-del-banner.png" alt="Diseñador Experto" width="700">
 </p>
 
-# Disenador Experto:  Portfolio
+# Diseñador Experto: Portfolio
 
 ### Web Development • Process Automation • Graphic Design • Video Editing • Quality Assurance
 
