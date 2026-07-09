@@ -38,11 +38,11 @@ Our mission is simple: to provide professional, reliable, and innovative service
     <td>
 <h3>Shafaatullah Shah</h3>
       
-##💻 Web Developer 
-##🎨 Graphic Designer
-##🎬 Video Editor
-##⚡ Automation Specialist
-##📱 Community Manager
+####💻 Web Developer 
+####🎨 Graphic Designer
+####🎬 Video Editor
+####⚡ Automation Specialist
+####📱 Community Manager
    </td>
 
    <td width="40%" valign="top">
