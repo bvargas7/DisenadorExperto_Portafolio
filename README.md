@@ -33,7 +33,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="EL .png" alt="Web Developer" width="200">
+      <img src="EL .png" alt="Web Developer" width="300">
     </td>
     <td width="60%" valign="top">
       <h3>Shafaatullah Shah</h3>
@@ -49,11 +49,11 @@ Our mission is simple: to provide professional, reliable, and innovative service
     <td width="60%" valign="top">
       <h3>Expertise</h3>
       <ul>
-       <img src="https://img.shields.io/badge/-About%20Web Development" height="40">
+       <img src="https://img.shields.io/badge/-About%20Web Development" height="100">
         <li>Worpress</li>
         <li>Shopyfy</li>
         <li>Woocomerce</li>
-        <img src="https://img.shields.io/badge/-About%20Graphic Designer" height="40">
+        <img src="https://img.shields.io/badge/-About%20Graphic Designer" height="1000">
         <li>Photoshop</li>
         <li>Illustrator</li>
         <li>Figma</li>
