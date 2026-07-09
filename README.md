@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="ruta-del-banner.png" alt="Diseñador Experto" width="700">
-</p>
+</div>
 
 # Diseñador Experto: Portfolio
 
