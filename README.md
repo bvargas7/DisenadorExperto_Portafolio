@@ -300,11 +300,11 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <tr>
 
 <td width="50%" align="center">
-    <img src="BestMark.jpg" width="90%" style="max-height:350px; object-fit:contain;">
+    <img src="BestMark.jpg" class="project-img" alt="BestMark Website">
 </td>
 
 <td width="50%" align="center">
-    <img src="CityManager.jpg" width="90%" style="max-height:350px; object-fit:contain;">
+    <img src="CityManager.jpg" class="project-img" alt="CityManager Website">
 </td>
 
 </tr>
@@ -313,16 +313,28 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <tr>
 
 <td width="50%" align="center">
-    <img src="DreamHouse.jpg" width="90%" style="max-height:350px; object-fit:contain;">
+    <img src="DremHouse.jpg" class="project-img" alt="DreamHouse Website">
 </td>
 
 <td width="50%" align="center">
-    <img src="IdeaBrilla.jpg" width="90%" style="max-height:350px; object-fit:contain;">
+    <img src="IdeaBrilla.jpg" class="project-img" alt="IdeaBrilla Website">
 </td>
 
 </tr>
 
 </table>
+
+
+<style>
+.project-img {
+    width: 450px;
+    height: 300px;
+    object-fit: contain;
+    border-radius: 10px;
+}
+</style>
+
+
 
 <!----------------------------------- WEB PROJECTS ------------------------------------------------->
 <br><br>
