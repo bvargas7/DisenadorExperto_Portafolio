@@ -1,8 +1,8 @@
 <p align="center">
-<td width="40%" align="center">
+<td width="50%" align="center">
     <img src="https://drive.google.com/uc?export=view&id=1BHi_yAp53-cRBiYYFAikDToO-7_tAmg_" 
-width="450" 
-height="300">
+    class="project-img">
+</td>
 </p>
 
 ## Diseñador Experto: Portfolio
