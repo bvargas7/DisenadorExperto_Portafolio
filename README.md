@@ -45,6 +45,17 @@ Our mission is simple: to provide professional, reliable, and innovative service
         <li>Community Manager</li>
       </ul>
     </td>
+     </td>
+    <td width="60%" valign="top">
+      <h3>Expertise</h3>
+      <ul>
+        <li>Web Developer</li>
+        <li>Graphic Designer</li>
+        <li>Video Editor</li>
+        <li>UX/UI Designer</li>
+        <li>Community Manager</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
