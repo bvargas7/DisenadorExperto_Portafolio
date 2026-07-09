@@ -41,7 +41,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
         <li>Web Developer</li>
         <li>Graphic Designer</li>
         <li>Video Editor</li>
-        <li>UX/UI Designer</li>
+        <li>Automation Specialist</li>
         <li>Community Manager</li>
       </ul>
     </td>
@@ -49,12 +49,28 @@ Our mission is simple: to provide professional, reliable, and innovative service
     <td width="60%" valign="top">
       <h3>Expertise</h3>
       <ul>
-        <li>Web Developer</li>
-        <li>Graphic Designer</li>
-        <li>Video Editor</li>
-        <li>UX/UI Designer</li>
-        <li>Community Manager</li>
-      </ul>
+       <img src="https://img.shields.io/badge/-About%20Web Development" height="40">
+        <li>Worpress</li>
+        <li>Shopyfy</li>
+        <li>Woocomerce</li>
+        <img src="https://img.shields.io/badge/-About%20Graphic Designer" height="40">
+        <li>Photoshop</li>
+        <li>Illustrator</li>
+        <li>Figma</li>
+        <li>Canva</li>
+        <img src="https://img.shields.io/badge/-About%20Video Editor" height="40">
+        <li>CapCut</li>
+        <li>Filmora</li>
+        <li>Photoshop</li>
+        <img src="https://img.shields.io/badge/-About%20Community Manager" height="40">
+        <li>Meta Business Suite</li>
+        <li>Canva</li>        
+        <li>Google Analytics</li>
+        <img src="https://img.shields.io/badge/-About%20Automation Specialist" height="40">
+        <li>Make.com</li>
+        <li>N8N</li>
+        <li>Zappier</li>
+        </ul>
     </td>
   </tr>
 </table>
