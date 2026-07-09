@@ -28,7 +28,7 @@ We believe that successful projects are built on clear communication, continuous
 Our mission is simple: to provide professional, reliable, and innovative services that help our clients achieve their objectives efficiently and confidently.
 </div
 
-
+<!----------------------------------- ABOUT US: Shafaath ------------------------------------------------->
 <img src="https://img.shields.io/badge/-About%20Blanca Vargas-blue" height="50">
 <table>
   <tr>
@@ -97,7 +97,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
   
 </table>
 
-
+<!----------------------------------- ABOUT US: Blanca ------------------------------------------------->
 <table>
   <tr>
     <td width="40%" align="center">
@@ -251,7 +251,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
   </tr>
 </table>
 
-
+<!----------------------------------- WEB PROJECTS ------------------------------------------------->
 
 
 
