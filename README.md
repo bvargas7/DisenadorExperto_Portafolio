@@ -310,31 +310,14 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
 <tr>
 .<td width="33%" align="center">
-
 <img src="DremHouse" width="100%">
 </td>
 
 
 <td width="33%" align="center">
-
 <img src="IdeaBrilla.jpg" width="100%">
-
 </td>
 
-
-<td width="33%" align="center">
-
-<img src="https://via.placeholder.com/350x200.png?text=UI+UX+Design" width="100%">
-
-<br>
-
-<b>UI/UX Design</b>
-
-<br>
-
-Interfaces adaptables y modernas
-
-</td>
 
 </tr>
 
