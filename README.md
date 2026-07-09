@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1BHi_yAp53-cRBiYYFAikDToO-7_tAmg_" 
-width="450" 
-height="300">
+<td width="40%" align="center">
+    <img src="[EL .png](https://drive.google.com/file/d/1BHi_yAp53-cRBiYYFAikDToO-7_tAmg_/view?usp=drive_link)" alt="QA Ana" width="470">
 </p>
 
 ## Diseñador Experto: Portfolio
