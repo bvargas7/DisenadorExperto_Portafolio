@@ -30,7 +30,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="EL .png" alt="Web Developer" width="500">
+      <img src="EL .png" alt="Web Developer" width="250">
     </td>
     <td width="60%" valign="top">
       <h3>Why Work With Us?</h3>
