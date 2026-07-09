@@ -4,7 +4,7 @@
 
 ## Diseñador Experto: Portfolio
 
-### Web Development • Process Automation • Graphic Design • Video Editing • Quality Assurance
+### About Us • Web Development • Video Editing • Graphic Design • Process Automation • Quality Assurance
 
 ---
 
