@@ -30,7 +30,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <table align="center">
   <tr>
     <td align="center">
-      <img src="images/team-photo.jpg" alt="Our Team" width="300">
+      <img src="EL .png" alt="Our Team" width="300">
     </td>
   </tr>
   <tr>
