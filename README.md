@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="TU_URL_DEL_BANNER" width="700">
+  <img src="TU_URL_DEL_BANNER" width="500">
 </p>
 
 # Diseñador Experto: Portfolio
