@@ -325,17 +325,6 @@ Our mission is simple: to provide professional, reliable, and innovative service
 </table>
 
 
-<style>
-.project-img {
-    width: 450px;
-    height: 300px;
-    object-fit: contain;
-    border-radius: 10px;
-}
-</style>
-
-
-
 <!----------------------------------- WEB PROJECTS ------------------------------------------------->
 <br><br>
 ------
