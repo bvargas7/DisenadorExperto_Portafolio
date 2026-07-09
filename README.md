@@ -33,21 +33,13 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <table>
   <tr>
     <td width="40%" align="center">
+      <h3>Shafaatullah Shah</h3>
       <img src="EL .png" alt="QA Ana" width="300">
     </td>
     <td>
-<h3>Shafaatullah Shah</h3>
+
       
-<h4>🎨 Graphic Design</h4>
-
-<h4>🎬 Video Editing</h4>
-
-<h4>📱 Community Manager</h4>
-
-<h4>⚡ Automation</h4>
-   </td>
-
-   <td width="40%" valign="top">
+<td width="40%" valign="top">
 
 ### Expertise
 
