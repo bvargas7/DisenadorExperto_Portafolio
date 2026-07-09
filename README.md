@@ -34,7 +34,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
   <tr>
     <!-- Foto -->
     <td width="30%" align="center" valign="top">
-      <img src="EL.png" alt="Shafaatullah Shah" width="250">
+      <img src="EL.png" alt="Shafaatullah Shah" width="300">
     </td>
 
     <!-- Información -->
