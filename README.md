@@ -33,12 +33,10 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <table>
   <tr>
     <td width="40%" align="center">
-      <h3>Shafaatullah Shah</h3>
-      <img src="EL .png" alt="QA Ana" width="300">
+    <img src="EL .png" alt="QA Ana" width="300">
+    <h3>Shafaatullah Shah</h3>
     </td>
-    <td>
-
-      
+       
 <td width="40%" valign="top">
 
 ### Expertise
