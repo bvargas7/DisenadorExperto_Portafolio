@@ -32,14 +32,10 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
 <table>
   <tr>
-    <!-- Foto -->
-    <td width="50%" align="center" valign="top">
-      <img src="EL.png" alt="Shafaatullah Shah" width="300">
+    <td width="40%" align="center">
+      <img src="EL .png" alt="QA Ana" width="300">
     </td>
-
-    <!-- Información -->
-    <td width="30%" valign="top">
-
+    <td
 ### Shafaatullah Shah
 
 - 💻 Web Developer
@@ -47,10 +43,8 @@ Our mission is simple: to provide professional, reliable, and innovative service
 - 🎬 Video Editor
 - ⚡ Automation Specialist
 - 📱 Community Manager
-
    </td>
 
-   <!-- Expertise -->
    <td width="40%" valign="top">
 
 ### Expertise
