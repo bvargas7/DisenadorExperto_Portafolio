@@ -29,7 +29,6 @@ Our mission is simple: to provide professional, reliable, and innovative service
 </div
 
 
-<img src="https://img.shields.io/badge/-About%20About Team-blue" height="33">
 
 <table>
   <tr>
