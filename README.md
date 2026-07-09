@@ -32,49 +32,71 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
 <table>
   <tr>
-    <td width="40%" align="center">
-      <img src="EL .png" alt="Web Developer" width="300">
+    <!-- Foto -->
+    <td width="30%" align="center" valign="top">
+      <img src="EL.png" alt="Shafaatullah Shah" width="250">
     </td>
-    <td width="60%" valign="top">
-      <h3>Shafaatullah Shah</h3>
-      <ul>
-        <li>Web Developer</li>
-        <li>Graphic Designer</li>
-        <li>Video Editor</li>
-        <li>Automation Specialist</li>
-        <li>Community Manager</li>
-      </ul>
-    </td>
-     </td>
-    <td width="60%" valign="top">
-      <h3>Expertise</h3>
-      <ul>
-       <img src="https://img.shields.io/badge/-About%20Web Development" height="100">
-        <li>Worpress</li>
-        <li>Shopyfy</li>
-        <li>Woocomerce</li>
-        <img src="https://img.shields.io/badge/-About%20Graphic Designer" height="1000">
-        <li>Photoshop</li>
-        <li>Illustrator</li>
-        <li>Figma</li>
-        <li>Canva</li>
-        <img src="https://img.shields.io/badge/-About%20Video Editor" height="40">
-        <li>CapCut</li>
-        <li>Filmora</li>
-        <li>Photoshop</li>
-        <img src="https://img.shields.io/badge/-About%20Community Manager" height="40">
-        <li>Meta Business Suite</li>
-        <li>Canva</li>        
-        <li>Google Analytics</li>
-        <img src="https://img.shields.io/badge/-About%20Automation Specialist" height="40">
-        <li>Make.com</li>
-        <li>N8N</li>
-        <li>Zappier</li>
-        </ul>
-    </td>
+
+    <!-- Información -->
+    <td width="30%" valign="top">
+
+### Shafaatullah Shah
+
+- 💻 Web Developer
+- 🎨 Graphic Designer
+- 🎬 Video Editor
+- ⚡ Automation Specialist
+- 📱 Community Manager
+
+   </td>
+
+   <!-- Expertise -->
+   <td width="40%" valign="top">
+
+### Expertise
+
+#### 🌐 Web Development
+
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white">
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white">
+
+<br><br>
+
+#### 🎨 Graphic Design
+
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+
+<br><br>
+
+#### 🎬 Video Editing
+
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white">
+<img src="https://img.shields.io/badge/Filmora-07273D?style=for-the-badge&logo=wondershare&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+
+<br><br>
+
+#### 📱 Community Manager
+
+<img src="https://img.shields.io/badge/Meta_Business_Suite-0467DF?style=for-the-badge&logo=meta&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
+
+<br><br>
+
+#### ⚡ Automation
+
+<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white">
+
+   </td>
   </tr>
 </table>
-
 <img src="https://img.shields.io/badge/-About%20Blanca Vargas-blue" height="33">
 
 <table>
