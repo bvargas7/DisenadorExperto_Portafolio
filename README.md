@@ -1,4 +1,9 @@
-# 🚀 Disenador Experto:  Portfolio
+
+<p align="center">
+  <img src="logo.png" alt="Designer Expert Logo" width="250">
+</p>
+
+# Disenador Experto:  Portfolio
 
 ### Web Development • Process Automation • Graphic Design • Video Editing • Quality Assurance
 
