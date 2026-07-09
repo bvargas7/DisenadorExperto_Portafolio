@@ -82,6 +82,8 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
    </td>
   </tr>
+
+  
 </table>
 <img src="https://img.shields.io/badge/-About%20Blanca Vargas-blue" height="33">
 
@@ -90,24 +92,117 @@ Our mission is simple: to provide professional, reliable, and innovative service
     <td width="40%" align="center">
       <img src="Yo.jpg" alt="QA Ana" width="300">
     </td>
-    <td width="60%" valign="top">
-      <h3>Blanca Vargas</h3>
-      <ul>
-        <li>Data Analyst</li>
-        <li>QA Manual</li>
-        <li>QA Functional</li>
-        <li>QA Automation</li>
-        <li>Project Manager</li>
-        <li>B.Sc.in Computer Science</li>
-      </ul>
-    </td>
-      <td width="60%" valign="top">
-      <h3>Expertise</h3>
-      <ul>
-      
-<img height="55" src="https://clipground.com/images/jira-logo-clipart-2.png" > <img height="50" src="https://i.imgur.com/yr11S8M.png" > <img width="70" src="https://www.inclusionhub.com/hubfs/resource%20logos/Accessibility%20Scanner%20Logomark.png">
+<h3>Expertise</h3>
 
-<img height="45" src="https://th.bing.com/th/id/OIP.k4jExD7SQvt45d73lj1HsAHaHa?pid=ImgDet&w=4088&h=4088&rs=1">
+<h4>📊 Data Analyst</h4>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Copilot-000000?style=for-the-badge&logo=microsoftcopilot&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge">
+
+<br><br>
+
+<h4>🧪 QA Manual & Functional</h4>
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Zephyr-0052CC?style=for-the-badge">
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
+<img src="https://img.shields.io/badge/Azure_Test_Plans-0078D7?style=for-the-badge">
+<img src="https://img.shields.io/badge/TFS-0078D7?style=for-the-badge">
+<img src="https://img.shields.io/badge/ALM-7A3E9D?style=for-the-badge">
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white">
+<img src="https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge">
+<img src="https://img.shields.io/badge/Bugzilla-CC0000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+<img src="https://img.shields.io/badge/Bruno-FF6C37?style=for-the-badge">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow">
+<img src="https://img.shields.io/badge/Lucidchart-FE7A16?style=for-the-badge">
+<img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white">
+<img src="https://img.shields.io/badge/Snipping_Tool-0078D4?style=for-the-badge">
+
+<br><br>
+
+<h4>🤖 QA Automation</h4>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white">
+<img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+<img src="https://img.shields.io/badge/Katalon-00C65E?style=for-the-badge">
+<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<br><br>
+
+<h4>📋 Product Owner / Project Management</h4>
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+<img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white">
+<img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=mondaydotcom&logoColor=white">
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white">
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white">
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge">
+
+<br><br>
+
+<h4>📚 Documentation</h4>
+
+<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow">
+<img src="https://img.shields.io/badge/Lucidchart-FE7A16?style=for-the-badge">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+<br><br>
+
+<h4>⚙️ Methodologies</h4>
+
+<img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge">
+<img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge">
+<img src="https://img.shields.io/badge/Agile-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/Waterfall-607D8B?style=for-the-badge">
+
+<br><br>
+
+<h4>✅ QA Knowledge</h4>
+
+<img src="https://img.shields.io/badge/Test_Cases-0A66C2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Test_Plans-1565C0?style=for-the-badge">
+<img src="https://img.shields.io/badge/Test_Scenarios-0277BD?style=for-the-badge">
+<img src="https://img.shields.io/badge/Functional_Testing-2E7D32?style=for-the-badge">
+<img src="https://img.shields.io/badge/Exploratory_Testing-6A1B9A?style=for-the-badge">
+<img src="https://img.shields.io/badge/Smoke_Testing-00897B?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sanity_Testing-5E35B1?style=for-the-badge">
+<img src="https://img.shields.io/badge/Regression_Testing-C62828?style=for-the-badge">
+<img src="https://img.shields.io/badge/Retesting-00838F?style=for-the-badge">
+<img src="https://img.shields.io/badge/UAT-3949AB?style=for-the-badge">
+<img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge">
+<img src="https://img.shields.io/badge/Integration_Testing-7CB342?style=for-the-badge">
+<img src="https://img.shields.io/badge/System_Testing-00897B?style=for-the-badge">
+<img src="https://img.shields.io/badge/Compatibility_Testing-5D4037?style=for-the-badge">
+<img src="https://img.shields.io/badge/Usability_Testing-8E24AA?style=for-the-badge">
+<img src="https://img.shields.io/badge/Accessibility-Basic-546E7A?style=for-the-badge">
+<img src="https://img.shields.io/badge/Database_Validation-336791?style=for-the-badge">
+<img src="https://img.shields.io/badge/Defect_Lifecycle-E53935?style=for-the-badge">
+<img src="https://img.shields.io/badge/Severity_&_Priority-F57C00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Requirements_Analysis-039BE5?style=for-the-badge">
+<img src="https://img.shields.io/badge/Equivalence_Partitioning-1E88E5?style=for-the-badge">
+<img src="https://img.shields.io/badge/Boundary_Value_Analysis-43A047?style=for-the-badge">
+<img src="https://img.shields.io/badge/Decision_Tables-6D4C41?style=for-the-badge">
+<img src="https://img.shields.io/badge/State_Transition-8E24AA?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cross_Browser_Testing-455A64?style=for-the-badge">
       </ul>
     </td>
   </tr>
