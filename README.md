@@ -33,7 +33,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
       <img src="EL .png" alt="Web Developer" width="250">
     </td>
     <td width="60%" valign="top">
-      <h3>Why Work With Us?</h3>
+      <h3>Shafaatullah Shah</h3>
       <ul>
         <li>Multidisciplinary expertise across technology and creative services</li>
         <li>End-to-end project delivery, from planning to implementation</li>
