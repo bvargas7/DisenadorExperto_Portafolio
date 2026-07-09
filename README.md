@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo.jpg" alt="Designer Expert Logo" width="500">
+  <img src="Logo.jpg" alt="Designer Expert Logo" width="700">
 </p>
 # Disenador Experto:  Portfolio
 
