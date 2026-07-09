@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo.jpg" width="500">
+  <img src="https://drive.google.com/file/d/1BHi_yAp53-cRBiYYFAikDToO-7_tAmg_/view?usp=drive_link/Logo.jpg" width="500">
 </p>
 
 ## Diseñador Experto: Portfolio
