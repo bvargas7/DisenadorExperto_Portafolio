@@ -25,7 +25,7 @@ We believe that successful projects are built on clear communication, continuous
 
 Our mission is simple: to provide professional, reliable, and innovative services that help our clients achieve their objectives efficiently and confidently.
 
-<img src="https://img.shields.io/badge/-About%20Shafatullah Shah-blue" height="33">
+<img src="https://img.shields.io/badge/-About%20Shafaatullah Shah-blue" height="33">
 
 ## Web Development
 
