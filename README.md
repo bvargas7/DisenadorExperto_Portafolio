@@ -180,6 +180,14 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Android_Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/iOS_Testing-000000?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Charles_Proxy-F57C00?style=for-the-badge">
+<img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white">
 
 <br>
 
@@ -217,18 +225,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 
 <br>
-<h4>📲 Android & iOS Testing</h4>
 
-<img src="https://img.shields.io/badge/Android_Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/iOS_Testing-000000?style=for-the-badge&logo=apple&logoColor=white">
-<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white">
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/Charles_Proxy-F57C00?style=for-the-badge">
-<img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white">
-
-<br>
 <h4>🐍 Programming Languages</h4>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
