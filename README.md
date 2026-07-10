@@ -416,7 +416,7 @@ alt="BestMark Website">
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="34%">
 
 <b>🛠️ Tools</b><br><br>
 
