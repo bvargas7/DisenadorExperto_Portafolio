@@ -824,6 +824,25 @@ My approach combines creativity, communication, analytics, and automation to imp
 </table>
 
 
+<!----------------------------------QA------------------------------------------------->
+<h2 align="center">🌐 Connect With Us</h2>
 
-<!----------------------------------OTRA-------------------------------------------->
+<p align="center">
+
+<a href="https://www.youtube.com/@DissenadorExperto">
+  <img src="https://img.shields.io/badge/YouTube-DissenadorExperto-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="mailto:b7lanca@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Us-0078D4?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.facebook.com/DisenadorExperto">
+  <img src="https://img.shields.io/badge/Facebook-Follow_Us-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+</p>
+
+
+
 
