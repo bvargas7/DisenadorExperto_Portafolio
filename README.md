@@ -29,7 +29,7 @@ Our collaborative approach allows us to manage projects from concept to delivery
 We believe that successful projects are built on clear communication, continuous improvement, and a commitment to excellence. Every project is an opportunity to create meaningful results, strengthen brands, and help organizations grow in an increasingly digital world.
 
 Our mission is simple: to provide professional, reliable, and innovative services that help our clients achieve their objectives efficiently and confidently.
-</div
+</div>
 
 <!----------------------------------- ABOUT US: Shafaath ------------------------------------------------->
 
@@ -517,13 +517,13 @@ alt="BestMark Website">
 - Data Transformation
 - Workflow Design
 - Automation Architecture
-
+<div style="text-align: justify;">
 I specialize in process automation and workflow design, creating efficient solutions through platforms such as Make.com, API integrations, Telegram bots, and custom automation systems.
 
 I have developed advanced workflows focused on reducing manual tasks, improving operational efficiency, and connecting different digital services into scalable automation ecosystems. While most of my implementations have been built using Make.com, my expertise is based on core automation principles including workflow logic, webhooks, REST APIs, data processing, error handling, and performance optimization, allowing me to quickly adapt to platforms like n8n and other automation environments.
 
 My approach combines process analysis, automation architecture, and technical implementation to build reliable solutions that help businesses reduce repetitive work, minimize errors, and improve productivity.
-
+</div>
 
 ### Technical Expertise
 
