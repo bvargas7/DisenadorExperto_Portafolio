@@ -359,6 +359,7 @@ alt="BestMark Website">
 ![Synthesia](https://img.shields.io/badge/Synthesia-635BFF?logoColor=white)
 
 <!----------------------------------- Graphic Designer------------------------------------------------->
+<br><br>
 ## Graphic Design
 
 <h2>🎨 Graphic Design</h2>
