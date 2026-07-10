@@ -45,11 +45,12 @@ Our mission is simple: to provide professional, reliable, and innovative service
       <h3>Shafaatullah Shah</h3>
       <p><b>Digital Solutions Developer Ssr</b></p>
       <p>
+          --
       <img src="https://img.shields.io/badge/English-B2-1565C0?style=flat">
       <img src="https://img.shields.io/badge/Urdu-Native-8B0000?style=flat">
       </p>
-      <h2>Expertise</h2>
-           --
+            --
+      <h2>Expertise</h2>          
      #### 🌐 Web Development
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white">
@@ -112,12 +113,13 @@ Our mission is simple: to provide professional, reliable, and innovative service
       <h3>Blanca Vargas</h3>
       <p><b>Senior Quality Assurance & Product Specialist</b></p>
       <p>
+          --
       <img src="https://img.shields.io/badge/English-B2-1565C0?style=flat">
       <img src="https://img.shields.io/badge/Spanish-Native-2E7D32?style=flat">
       </p>
-      <h2>Expertise</h2>
-        --
-     <h4>📊 Data Analyst</h4>
+          --
+      <h2>Expertise</h2>      
+<h4>📊 Data Analyst</h4>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Copilot-000000?style=for-the-badge&logo=microsoftcopilot&logoColor=white">
