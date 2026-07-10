@@ -244,12 +244,10 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <br><br>
 ------
 <br><br>
+## Web Development
 
 <h2>🌐 Web Development Portfolio</h2>
 
-<br>
-
-<h3>📌 Developed Projects</h3>
 
 #### LANDING PAGES
 
@@ -334,10 +332,31 @@ alt="BestMark Website">
 <!----------------------------------- Video Editing------------------------------------------------->
 <br><br>
 ------
-</table>
-<h2> Video Editing </h2>h2>
+<br><br>
+<h2> Video Editing </h2>
 
-Texto aquí...
+<h2>🎬 Video Production, Content Creation & AI</h2>
+
+
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?logo=davinciresolve&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?logo=capcut&logoColor=white)
+![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-00E4BB?logo=adobeaudition&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?logoColor=white)
+![Runway](https://img.shields.io/badge/Runway-000000?logoColor=white)
+![Pika](https://img.shields.io/badge/Pika-6C63FF?logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?logoColor=white)
+![HeyGen](https://img.shields.io/badge/HeyGen-FF6B35?logoColor=white)
+![Synthesia](https://img.shields.io/badge/Synthesia-635BFF?logoColor=white)
 
 ## Graphic Design
 
