@@ -45,14 +45,12 @@ Our mission is simple: to provide professional, reliable, and innovative service
       <h3>Shafaatullah Shah</h3>
       <p><b>Digital Solutions Developer Ssr</b></p>
       <p>
-      --
-       <h2>Langiaje</h2> 
+      <h2>Language</h2> 
       <img src="https://img.shields.io/badge/English-B2-1565C0?style=flat">
       <img src="https://img.shields.io/badge/Urdu-Native-8B0000?style=flat">
       </p>
-      --
-      <h2>Expertise</h2>          
-#### 🌐 Web Development
+    <h2>Expertise</h2>          
+<h4>🌐 Web Development</h4>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white">
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white">
@@ -93,6 +91,12 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white">
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white">
+<img src="https://img.shields.io/badge/Pipedream-000000?style=for-the-badge&logo=pipedream&logoColor=white">
+<img src="https://img.shields.io/badge/API_Integrations-0052CC?style=for-the-badge">
+<img src="https://img.shields.io/badge/Webhooks-FF5722?style=for-the-badge">
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI_Workflows-7F52FF?style=for-the-badge">
 <br>
 
 <h4>📱 Android Developer</h4>
@@ -114,11 +118,10 @@ Our mission is simple: to provide professional, reliable, and innovative service
       <h3>Blanca Vargas</h3>
       <p><b>Senior Quality Assurance & Product Specialist</b></p>
       <p>
-          --
+      <h2>Language</h2> 
       <img src="https://img.shields.io/badge/English-B2-1565C0?style=flat">
       <img src="https://img.shields.io/badge/Spanish-Native-2E7D32?style=flat">
       </p>
-          --
       <h2>Expertise</h2>      
 <h4>📊 Data Analyst</h4>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
