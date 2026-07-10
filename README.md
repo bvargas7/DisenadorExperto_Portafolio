@@ -544,8 +544,15 @@ My approach combines process analysis, automation architecture, and technical im
 * Custom business process automation workflows
 * Automated reports, alerts, and operational tasks
 
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Pipedream](https://img.shields.io/badge/Pipedream-FF6B6B?style=for-the-badge&logo=pipedream&logoColor=white)
+![IFTTT](https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=white)
 
 
+<!----------------------------------QA----------------------------------->
 ## Quality Assurance
 
 Texto aquí...
