@@ -15,7 +15,10 @@
   <a href="#video-editing">Video Editing</a> •
   <a href="#graphic-design">Graphic Design</a> •
   <a href="#process-automation">Process Automation</a> •
+  <a href="#community-Manager">Comunity Manager</a> •
   <a href="#quality-assurance">Quality Assurance</a>
+  <a href="#contact-us">Contact US</a>
+    
 </p>
 
 ## About Us
@@ -31,69 +34,48 @@ We believe that successful projects are built on clear communication, continuous
 Our mission is simple: to provide professional, reliable, and innovative services that help our clients achieve their objectives efficiently and confidently.
 </div>
 
-<!----------------------------------- ABOUT US: Shafaath ------------------------------------------------->
-
-<table>
+<table width="100%">
   <tr>
-   <td width="50%" align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1bwtZGfqlqSVsiqSSzaIWRjqtnP71gw8Z"
-    class="project-img">
-       <h3>Shafaatullah Shah</h3>
-       <h3>Digital Solutions Developer Ssr</h3>
-
-![English](https://img.shields.io/badge/English-B2-1565C0?style=flat)
-![Urdu](https://img.shields.io/badge/Urdu-Native-8B0000?style=flat)
-
-
-</td>
-       
-<td width="40%" valign="top">
-
-### Expertise
-
-#### 🌐 Web Development
-
+       <td width="50%" align="center" valign="top">
+      <img 
+      src="https://drive.google.com/uc?export=view&id=1bwtZGfqlqSVsiqSSzaIWRjqtnP71gw8Z"
+      width="250"
+      height="250"
+      style="object-fit: cover; border-radius: 10px;">
+      <h3>Shafaatullah Shah</h3>
+      <p><b>Digital Solutions Developer Ssr</b></p>
+      <p>
+      <img src="https://img.shields.io/badge/English-B2-1565C0?style=flat">
+      <img src="https://img.shields.io/badge/Urdu-Native-8B0000?style=flat">
+      </p>
+      <h3>Expertise</h3>
+     #### 🌐 Web Development
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white">
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white">
-
 <br>
-
 #### 🎨 Graphic Design
-
 <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-
 <br>
-
 #### 🎬 Video Editing
-
 <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white">
 <img src="https://img.shields.io/badge/Filmora-07273D?style=for-the-badge&logo=wondershare&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-
 <br>
-
 #### 📱 Community Manager
-
 <img src="https://img.shields.io/badge/Meta_Business_Suite-0467DF?style=for-the-badge&logo=meta&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
 <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
-
 <br>
-
 #### ⚡ Workflow Automation Specialist
-
 <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white">
-
 <br>
-
 <h4>📱 Android Developer</h4>
-
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -101,41 +83,30 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge">
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-
-   </td>
-  </tr>
-  
-</table>
-
-<!----------------------------------- ABOUT US: Blanca ------------------------------------------------->
-<table>
-  <tr>
-<td width="50%" align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1xjLvl_rzOGXQHEPw6GvmI1UVdw5IVvFS"
-    class="project-img">
-    <h3>Blanca Vargas</h3>
-    <h3>Senior Quality Assurance & Product Specialist</h3>
-    
-![English](https://img.shields.io/badge/English-B2-1565C0?style=flat)
-![Spanish](https://img.shields.io/badge/Spanish-Native-2E7D32?style=flat)
-
-</td>
-    <td width="40%" valign="top">
-<h3>Expertise</h3>
-
-<h4>📊 Data Analyst</h4>
-
+    </td>
+      <!--------------------------Blanca----------------------------------->
+    <td width="50%" align="center" valign="top">
+      <img 
+      src="https://drive.google.com/uc?export=view&id=1xjLvl_rzOGXQHEPw6GvmI1UVdw5IVvFS"
+      width="250"
+      height="250"
+      style="object-fit: cover; border-radius: 10px;">
+      <h3>Blanca Vargas</h3>
+      <p><b>Senior Quality Assurance & Product Specialist</b></p>
+      <p>
+      <img src="https://img.shields.io/badge/English-B2-1565C0?style=flat">
+      <img src="https://img.shields.io/badge/Spanish-Native-2E7D32?style=flat">
+      </p>
+      <h3>Expertise</h3>
+     <h4>📊 Data Analyst</h4>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Copilot-000000?style=for-the-badge&logo=microsoftcopilot&logoColor=white">
 <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white">
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge">
-
 <br>
-
 <h4>🧪 QA Manual & Functional</h4>
-
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/Zephyr-0052CC?style=for-the-badge">
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
@@ -180,11 +151,8 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Decision_Tables-6D4C41?style=for-the-badge">
 <img src="https://img.shields.io/badge/State_Transition-8E24AA?style=for-the-badge">
 <img src="https://img.shields.io/badge/Cross_Browser_Testing-455A64?style=for-the-badge">
-
 <br>
-
 <h4>🤖 QA Automation</h4>
-
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white">
 <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge">
@@ -209,11 +177,8 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
 <br>
-
 <h4>📋 Product Owner / Srum Master</h4>
-
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
@@ -233,10 +198,17 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow">
 <img src="https://img.shields.io/badge/Lucidchart-FE7A16?style=for-the-badge">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-      </ul>
     </td>
+
   </tr>
 </table>
+  </tr>
+</table>
+
+
+
+
+
 
 <!----------------------------------- WEB PROJECTS ------------------------------------------------->
 <br><br>
@@ -772,3 +744,8 @@ My approach combines creativity, communication, analytics, and automation to imp
 </td>
 </tr>
 </table>
+
+
+
+<!----------------------------------OTRA-------------------------------------------->
+
