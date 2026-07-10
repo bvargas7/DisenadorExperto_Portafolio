@@ -142,6 +142,31 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Lucidchart-FE7A16?style=for-the-badge">
 <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Snipping_Tool-0078D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Test_Cases-0A66C2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Test_Plans-1565C0?style=for-the-badge">
+<img src="https://img.shields.io/badge/Test_Scenarios-0277BD?style=for-the-badge">
+<img src="https://img.shields.io/badge/Functional_Testing-2E7D32?style=for-the-badge">
+<img src="https://img.shields.io/badge/Exploratory_Testing-6A1B9A?style=for-the-badge">
+<img src="https://img.shields.io/badge/Smoke_Testing-00897B?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sanity_Testing-5E35B1?style=for-the-badge">
+<img src="https://img.shields.io/badge/Regression_Testing-C62828?style=for-the-badge">
+<img src="https://img.shields.io/badge/Retesting-00838F?style=for-the-badge">
+<img src="https://img.shields.io/badge/UAT-3949AB?style=for-the-badge">
+<img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge">
+<img src="https://img.shields.io/badge/Integration_Testing-7CB342?style=for-the-badge">
+<img src="https://img.shields.io/badge/System_Testing-00897B?style=for-the-badge">
+<img src="https://img.shields.io/badge/Compatibility_Testing-5D4037?style=for-the-badge">
+<img src="https://img.shields.io/badge/Usability_Testing-8E24AA?style=for-the-badge">
+<img src="https://img.shields.io/badge/Accessibility-Basic-546E7A?style=for-the-badge">
+<img src="https://img.shields.io/badge/Database_Validation-336791?style=for-the-badge">
+<img src="https://img.shields.io/badge/Defect_Lifecycle-E53935?style=for-the-badge">
+<img src="https://img.shields.io/badge/Severity_&_Priority-F57C00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Requirements_Analysis-039BE5?style=for-the-badge">
+<img src="https://img.shields.io/badge/Equivalence_Partitioning-1E88E5?style=for-the-badge">
+<img src="https://img.shields.io/badge/Boundary_Value_Analysis-43A047?style=for-the-badge">
+<img src="https://img.shields.io/badge/Decision_Tables-6D4C41?style=for-the-badge">
+<img src="https://img.shields.io/badge/State_Transition-8E24AA?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cross_Browser_Testing-455A64?style=for-the-badge">
 
 <br>
 
@@ -172,53 +197,13 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white">
 <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge">
-
-<br>
-
-<h4>📚 Documentation</h4>
-
-<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow">
-<img src="https://img.shields.io/badge/Lucidchart-FE7A16?style=for-the-badge">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-
-<br>
-
-<h4>⚙️ Methodologies</h4>
-
 <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge">
 <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge">
 <img src="https://img.shields.io/badge/Agile-00C853?style=for-the-badge">
 <img src="https://img.shields.io/badge/Waterfall-607D8B?style=for-the-badge">
-
-<br>
-
-<h4>✅ QA Knowledge</h4>
-
-<img src="https://img.shields.io/badge/Test_Cases-0A66C2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Test_Plans-1565C0?style=for-the-badge">
-<img src="https://img.shields.io/badge/Test_Scenarios-0277BD?style=for-the-badge">
-<img src="https://img.shields.io/badge/Functional_Testing-2E7D32?style=for-the-badge">
-<img src="https://img.shields.io/badge/Exploratory_Testing-6A1B9A?style=for-the-badge">
-<img src="https://img.shields.io/badge/Smoke_Testing-00897B?style=for-the-badge">
-<img src="https://img.shields.io/badge/Sanity_Testing-5E35B1?style=for-the-badge">
-<img src="https://img.shields.io/badge/Regression_Testing-C62828?style=for-the-badge">
-<img src="https://img.shields.io/badge/Retesting-00838F?style=for-the-badge">
-<img src="https://img.shields.io/badge/UAT-3949AB?style=for-the-badge">
-<img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge">
-<img src="https://img.shields.io/badge/Integration_Testing-7CB342?style=for-the-badge">
-<img src="https://img.shields.io/badge/System_Testing-00897B?style=for-the-badge">
-<img src="https://img.shields.io/badge/Compatibility_Testing-5D4037?style=for-the-badge">
-<img src="https://img.shields.io/badge/Usability_Testing-8E24AA?style=for-the-badge">
-<img src="https://img.shields.io/badge/Accessibility-Basic-546E7A?style=for-the-badge">
-<img src="https://img.shields.io/badge/Database_Validation-336791?style=for-the-badge">
-<img src="https://img.shields.io/badge/Defect_Lifecycle-E53935?style=for-the-badge">
-<img src="https://img.shields.io/badge/Severity_&_Priority-F57C00?style=for-the-badge">
-<img src="https://img.shields.io/badge/Requirements_Analysis-039BE5?style=for-the-badge">
-<img src="https://img.shields.io/badge/Equivalence_Partitioning-1E88E5?style=for-the-badge">
-<img src="https://img.shields.io/badge/Boundary_Value_Analysis-43A047?style=for-the-badge">
-<img src="https://img.shields.io/badge/Decision_Tables-6D4C41?style=for-the-badge">
-<img src="https://img.shields.io/badge/State_Transition-8E24AA?style=for-the-badge">
-<img src="https://img.shields.io/badge/Cross_Browser_Testing-455A64?style=for-the-badge">
+<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow">
+<img src="https://img.shields.io/badge/Lucidchart-FE7A16?style=for-the-badge">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 <br>
 
