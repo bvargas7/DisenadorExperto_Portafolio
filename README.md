@@ -418,6 +418,56 @@ alt="BestMark Website">
 ![HeyGen](https://img.shields.io/badge/HeyGen-FF6B35?logoColor=white)
 ![Synthesia](https://img.shields.io/badge/Synthesia-635BFF?logoColor=white)
 
+<h2 align="center">🎬 Featured Video Projects</h2>
+
+<table>
+<tr>
+<td align="center">
+<a href="https://www.youtube.com/watch?v=YZa6bzV0HoM">
+<img src="https://img.youtube.com/vi/YZa6bzV0HoM/maxresdefault.jpg" width="320">
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.youtube.com/watch?v=CtX4AVlu8io">
+<img src="https://img.youtube.com/vi/CtX4AVlu8io/maxresdefault.jpg" width="320">
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.youtube.com/watch?v=-9e5l8xW_jk">
+<img src="https://img.youtube.com/vi/-9e5l8xW_jk/maxresdefault.jpg" width="320">
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://www.youtube.com/watch?v=5PU5RTphTnU">
+<img src="https://img.youtube.com/vi/5PU5RTphTnU/maxresdefault.jpg" width="320">
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.youtube.com/watch?v=FyaIP8VIqkM">
+<img src="https://img.youtube.com/vi/FyaIP8VIqkM/maxresdefault.jpg" width="320">
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.youtube.com/watch?v=w8KmnpL0MKg">
+<img src="https://img.youtube.com/vi/w8KmnpL0MKg/maxresdefault.jpg" width="320">
+</a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<a href="https://www.youtube.com/@DissenadorExperto">
+<img src="https://img.shields.io/badge/YouTube-DissenadorExperto-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+</p>
+
 <!----------------------------------- Graphic Designer------------------------------------------------->
 <br><br>
 ## Graphic Design
