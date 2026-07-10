@@ -45,13 +45,13 @@ Our mission is simple: to provide professional, reliable, and innovative service
       <h3>Shafaatullah Shah</h3>
       <p><b>Digital Solutions Developer Ssr</b></p>
       <p>
-          --
+      --
       <img src="https://img.shields.io/badge/English-B2-1565C0?style=flat">
       <img src="https://img.shields.io/badge/Urdu-Native-8B0000?style=flat">
       </p>
-            --
+      --
       <h2>Expertise</h2>          
-     #### 🌐 Web Development
+#### 🌐 Web Development
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white">
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white">
