@@ -78,7 +78,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
 <br>
 
-#### ⚡ Automation Specialist
+#### ⚡ Workflow Automation Specialist
 
 <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
@@ -107,6 +107,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <td width="50%" align="center">
     <img src="https://drive.google.com/uc?export=view&id=1xjLvl_rzOGXQHEPw6GvmI1UVdw5IVvFS"
     class="project-img">
+    <h3>Blanca Vargas</h3>
 </td>
     <td width="40%" valign="top">
 <h3>Expertise</h3>
