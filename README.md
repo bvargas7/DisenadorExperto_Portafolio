@@ -40,6 +40,11 @@ Our mission is simple: to provide professional, reliable, and innovative service
     class="project-img">
        <h3>Shafaatullah Shah</h3>
        <h3>Digital Solutions Developer Ssr</h3>
+
+![English](https://img.shields.io/badge/English-B2-1565C0?style=flat)
+![Urdu](https://img.shields.io/badge/Urdu-Native-8B0000?style=flat)
+
+
 </td>
        
 <td width="40%" valign="top">
@@ -110,6 +115,10 @@ Our mission is simple: to provide professional, reliable, and innovative service
     class="project-img">
     <h3>Blanca Vargas</h3>
     <h3>Senior Quality Assurance & Product Specialist</h3>
+    
+![English](https://img.shields.io/badge/English-B2-1565C0?style=flat)
+![Spanish](https://img.shields.io/badge/Spanish-Native-2E7D32?style=flat)
+
 </td>
     <td width="40%" valign="top">
 <h3>Expertise</h3>
