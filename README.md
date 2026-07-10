@@ -45,10 +45,12 @@ Our mission is simple: to provide professional, reliable, and innovative service
       <h3>Shafaatullah Shah</h3>
       <p><b>Digital Solutions Developer Ssr</b></p>
       <p>
+     <br>
       <h2>Language</h2> 
       <img src="https://img.shields.io/badge/English-B2-1565C0?style=flat">
       <img src="https://img.shields.io/badge/Urdu-Native-8B0000?style=flat">
       </p>
+    <br>
     <h2>Expertise</h2>          
 <h4>🌐 Web Development</h4>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
@@ -126,10 +128,12 @@ Our mission is simple: to provide professional, reliable, and innovative service
       <h3>Blanca Vargas</h3>
       <p><b>Senior Quality Assurance & Product Specialist</b></p>
       <p>
+      <br>
       <h2>Language</h2> 
       <img src="https://img.shields.io/badge/English-B2-1565C0?style=flat">
       <img src="https://img.shields.io/badge/Spanish-Native-2E7D32?style=flat">
       </p>
+      <br>
       <h2>Expertise</h2>      
 <h4>📊 Data Analyst</h4>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
