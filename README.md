@@ -606,43 +606,59 @@ My approach combines creativity, communication, analytics, and automation to imp
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="33%">
+
+### 📝 Content Strategy
 
 - 📅 Content planning and social media strategy  
 - ✍️ Copywriting and digital communication  
 - 🎨 Visual content coordination and publishing  
 - 🎬 Video content management and optimization  
-- 💬 Community engagement and audience interaction  
-- 📢 Social media campaign support  
 
 </td>
-<td width="50%">
 
+<td width="33%">
+
+### 💬 Community & Growth
+
+- 💬 Community engagement and audience interaction  
+- 📢 Social media campaign support  
 - 📊 Social media analytics and performance tracking  
 - 🔍 Audience research and trend analysis  
 - 📈 Engagement and growth strategies  
-- 🛠️ Social media management tools  
-- 🤖 Content workflow automation  
 - ⭐ Brand reputation management  
 
 </td>
-</tr>
-</table>
 
-## 🛠️ Tools & Platforms
+<td width="33%">
+
+### 🛠️ Tools & Platforms
 
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
-![Video Editing](https://img.shields.io/badge/Video%20Editing-FF6F00?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Content Scheduling](https://img.shields.io/badge/Content%20Scheduling-4285F4?style=for-the-badge&logo=calendar&logoColor=white)
 
+![Meta Business Suite](https://img.shields.io/badge/Meta%20Business%20Suite-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+![Buffer](https://img.shields.io/badge/Buffer-231F20?style=for-the-badge&logo=buffer&logoColor=white)
+
+![Hootsuite](https://img.shields.io/badge/Hootsuite-143059?style=for-the-badge&logo=hootsuite&logoColor=white)
+
+</td>
+
+</tr>
+</table>
 <!----------------------------------QA------------------------------------------------->
 ## Quality Assurance
 
