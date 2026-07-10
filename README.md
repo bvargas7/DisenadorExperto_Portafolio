@@ -297,7 +297,7 @@ We are a team of two professionals specializing in digital solutions that combin
 <td width="50%">
 
 <div>
-
+<h2> Web Development </h2>
 ## 🖥️ Web Pages & CMS Development
 
 **Technologies & Services:**
