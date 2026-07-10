@@ -55,6 +55,13 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white">
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Requirements_Analysis-039BE5?style=for-the-badge">
+<img src="https://img.shields.io/badge/Unit_Testing-43A047?style=for-the-badge">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Database_Design-336791?style=for-the-badge">
+<img src="https://img.shields.io/badge/Database_Management-1565C0?style=for-the-badge">
 <br>
            
 #### 🎨 Graphic Design
