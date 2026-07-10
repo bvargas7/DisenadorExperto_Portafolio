@@ -358,9 +358,93 @@ alt="BestMark Website">
 ![HeyGen](https://img.shields.io/badge/HeyGen-FF6B35?logoColor=white)
 ![Synthesia](https://img.shields.io/badge/Synthesia-635BFF?logoColor=white)
 
+<!----------------------------------- Graphic Designer------------------------------------------------->
 ## Graphic Design
 
-Texto aquí...
+<h2>🎨 Graphic Design</h2>
+
+<table width="100%">
+<tr>
+<td valign="top" width="33%">
+
+<b>🏷️ Branding & Identity</b>
+
+<ul>
+<li>Logo Design</li>
+<li>Brand Identity Design</li>
+<li>Visual Identity Systems</li>
+<li>Brand Guidelines</li>
+</ul>
+
+<b>📢 Marketing & Advertising</b>
+
+<ul>
+<li>Social Media Graphics</li>
+<li>Advertising Creatives</li>
+<li>Banners</li>
+<li>Flyers & Brochures</li>
+<li>Promotional Materials</li>
+</ul>
+
+</td>
+
+<td valign="top" width="33%">
+
+<b>💻 Digital Design</b>
+
+<ul>
+<li>UI/UX Design</li>
+<li>Web Graphics</li>
+<li>Landing Page Design</li>
+<li>Email Design</li>
+<li>Presentation Design</li>
+</ul>
+
+<b>🖨️ Print & Creative Services</b>
+
+<ul>
+<li>Business Cards</li>
+<li>Catalogs</li>
+<li>Packaging Design</li>
+<li>Corporate Documents</li>
+<li>Image Editing & Retouching</li>
+<li>Infographics</li>
+<li>Content Creation</li>
+<li>AI-Assisted Design</li>
+</ul>
+
+</td>
+
+<td valign="top" width="33%">
+
+<b>🛠️ Tools</b><br><br>
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
+
+![InDesign](https://img.shields.io/badge/InDesign-FF3366?logo=adobeindesign&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?logo=adobelightroom&logoColor=white)
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+![Express](https://img.shields.io/badge/Express-FF0000?logo=adobe&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-46A247?logo=coreldraw&logoColor=white)
+
+![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-134881?logo=affinitydesigner&logoColor=white)
+![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?logo=affinityphoto&logoColor=white)
+
+![Firefly](https://img.shields.io/badge/Firefly-FF0000?logo=adobe&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?logoColor=white)
+
+![DALL·E](https://img.shields.io/badge/DALL·E-412991?logo=openai&logoColor=white)
+![Leonardo](https://img.shields.io/badge/Leonardo-6C47FF?logoColor=white)
+
+![Ideogram](https://img.shields.io/badge/Ideogram-000000?logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ## Process Automation
 
