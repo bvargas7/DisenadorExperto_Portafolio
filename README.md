@@ -38,6 +38,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
    <td width="50%" align="center">
     <img src="https://drive.google.com/uc?export=view&id=1bwtZGfqlqSVsiqSSzaIWRjqtnP71gw8Z"
     class="project-img">
+       <h3>Shafaatullah Shah</h3>
 </td>
        
 <td width="40%" valign="top">
@@ -191,7 +192,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
 <br>
 
-<h4>📋 Product Owner / Project Management</h4>
+<h4>📋 Product Owner / Srum Master</h4>
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
