@@ -46,6 +46,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
       <p><b>Digital Solutions Developer Ssr</b></p>
       <p>
       --
+       <h2>Langiaje</h2> 
       <img src="https://img.shields.io/badge/English-B2-1565C0?style=flat">
       <img src="https://img.shields.io/badge/Urdu-Native-8B0000?style=flat">
       </p>
