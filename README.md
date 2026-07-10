@@ -39,6 +39,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
     <img src="https://drive.google.com/uc?export=view&id=1bwtZGfqlqSVsiqSSzaIWRjqtnP71gw8Z"
     class="project-img">
        <h3>Shafaatullah Shah</h3>
+       <h3>Digital Solutions Developer Ssr</h3>
 </td>
        
 <td width="40%" valign="top">
@@ -108,6 +109,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
     <img src="https://drive.google.com/uc?export=view&id=1xjLvl_rzOGXQHEPw6GvmI1UVdw5IVvFS"
     class="project-img">
     <h3>Blanca Vargas</h3>
+    <h3>QA Sr</h3>
 </td>
     <td width="40%" valign="top">
 <h3>Expertise</h3>
