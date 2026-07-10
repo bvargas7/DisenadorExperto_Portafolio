@@ -43,7 +43,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
       height="250"
       style="object-fit: cover; border-radius: 10px;">
       <h3>Shafaatullah Shah</h3>
-      <p><b>Digital Solutions Developer Ssr</b></p>
+      <p><b>Digital Solutions Developer Semi Senior</b></p>
       <p>
      <br>
       <h2>Language</h2> 
