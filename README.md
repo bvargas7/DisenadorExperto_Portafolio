@@ -595,7 +595,52 @@ My approach combines process analysis, automation architecture, and technical im
 ![Automation Workflow Architecture](https://drive.google.com/uc?export=view&id=11nyM-822pqwyu2GPcsS8TEbKIam5s18-)
 
 
-<!----------------------------------QA----------------------------------->
+<!----------------------------------Comunity Manager----------------------------------->
+## 📱 Community Management & Digital Content
+
+I help brands and businesses build stronger online communities through strategic content creation, audience engagement, and data-driven social media management.
+
+My approach combines creativity, communication, analytics, and automation to improve brand visibility, increase audience interaction, and optimize digital presence.
+
+### Core Skills
+
+<table>
+<tr>
+<td width="50%">
+
+- 📅 Content planning and social media strategy  
+- ✍️ Copywriting and digital communication  
+- 🎨 Visual content coordination and publishing  
+- 🎬 Video content management and optimization  
+- 💬 Community engagement and audience interaction  
+- 📢 Social media campaign support  
+
+</td>
+<td width="50%">
+
+- 📊 Social media analytics and performance tracking  
+- 🔍 Audience research and trend analysis  
+- 📈 Engagement and growth strategies  
+- 🛠️ Social media management tools  
+- 🤖 Content workflow automation  
+- ⭐ Brand reputation management  
+
+</td>
+</tr>
+</table>
+
+### Tools & Platforms
+
+- 📱 Instagram
+- 📘 Facebook
+- 💼 LinkedIn
+- 🎵 TikTok
+- 🖌️ Canva
+- 🎬 CapCut / Video Editing Tools
+- 📊 Google Analytics
+- 📅 Content Scheduling Platforms
+
+<!----------------------------------QA------------------------------------------------->
 ## Quality Assurance
 
 ## 🧪 Manual & Functional Testing
