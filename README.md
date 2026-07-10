@@ -595,9 +595,57 @@ My approach combines process analysis, automation architecture, and technical im
 ![Automation Workflow Architecture](https://drive.google.com/uc?export=view&id=11nyM-822pqwyu2GPcsS8TEbKIam5s18-)
 
 
-
-
 <!----------------------------------QA----------------------------------->
 ## Quality Assurance
 
-Texto aquí...
+## 🧪 Manual & Functional Testing
+
+<table>
+<tr>
+<td width="50%">
+
+- 📋 Requirements analysis and validation  
+- 📝 Test case design and documentation  
+- 🧩 Test scenario creation based on business requirements  
+- ▶️ Test execution and defect identification  
+- 📸 Test evidence documentation (screenshots, logs, and reports)  
+- 🐞 Bug reporting and tracking using issue management tools  
+- 🔄 Defect lifecycle management (New, In Progress, Fixed, Retest, Closed)  
+- 🔁 Regression testing after fixes and new releases  
+
+</td>
+<td width="50%">
+
+- 🚦 Smoke testing and sanity testing  
+- 🌐 Functional testing of web applications  
+- 👥 User acceptance testing (UAT) support  
+- 🗂️ Test data preparation and management  
+- 🔍 Exploratory testing to identify unexpected issues  
+- ✅ Validation of business rules and user workflows  
+- 🖥️ Cross-browser and usability testing  
+- 🤝 Collaboration with developers and stakeholders to improve product quality  
+
+</td>
+</tr>
+</table>
+
+## 🤖 QA Automation & Integration
+
+<table>
+<tr>
+<td width="50%">
+
+- 🔗 API testing and validation  
+- ⚙️ Automated workflow validation  
+- 📊 Data consistency checks  
+
+</td>
+<td width="50%">
+
+- 🔄 Integration testing between systems  
+- 🧪 End-to-end process verification  
+- 🤖 Basic test automation concepts  
+
+</td>
+</tr>
+</table>
