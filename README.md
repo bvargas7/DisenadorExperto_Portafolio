@@ -446,6 +446,62 @@ alt="BestMark Website">
 </td>
 </tr>
 </table>
+<!----------------------------------Logo Gallery------------------------------------>
+<h3>🏷️ Featured Logo Designs</h3>
+
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://drive.google.com/file/d/1QOxMPXZr5GZrex38cPA9RZ5kat9sIC8A/view">
+<img src="https://drive.google.com/uc?export=view&id=1QOxMPXZr5GZrex38cPA9RZ5kat9sIC8A" width="180" alt="Logo 1">
+</a>
+</td>
+
+<td align="center">
+<a href="https://drive.google.com/file/d/189l16zBNUb9W1AeDDDGmq52jlfRwcVBB/view">
+<img src="https://drive.google.com/uc?export=view&id=189l16zBNUb9W1AeDDDGmq52jlfRwcVBB" width="180" alt="Logo 2">
+</a>
+</td>
+
+<td align="center">
+<a href="https://drive.google.com/file/d/1MJg8QSjoK5IsD1W6kIi_UutdQ0EoF8DJ/view">
+<img src="https://drive.google.com/uc?export=view&id=1MJg8QSjoK5IsD1W6kIi_UutdQ0EoF8DJ" width="180" alt="Logo 3">
+</a>
+</td>
+
+<td align="center">
+<a href="https://drive.google.com/file/d/18d7OFFZ1OWyaguxBXb5iNyO1ac9CRXbV/view">
+<img src="https://drive.google.com/uc?export=view&id=18d7OFFZ1OWyaguxBXb5iNyO1ac9CRXbV" width="180" alt="Logo 4">
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://drive.google.com/file/d/1hyT5ttxzLXy4lwybc_A9tk_cCXhmptXX/view">
+<img src="https://drive.google.com/uc?export=view&id=1hyT5ttxzLXy4lwybc_A9tk_cCXhmptXX" width="180" alt="Logo 5">
+</a>
+</td>
+
+<td align="center">
+<a href="https://drive.google.com/file/d/1dFXOkZ8bkzQyF16S4lMrwGszS_vyc7EC/view">
+<img src="https://drive.google.com/uc?export=view&id=1dFXOkZ8bkzQyF16S4lMrwGszS_vyc7EC" width="180" alt="Logo 6">
+</a>
+</td>
+
+<td align="center">
+<a href="https://drive.google.com/file/d/1ZPgOoIwsebe7HWJHlPGsDb1Z36eNxSt0/view">
+<img src="https://drive.google.com/uc?export=view&id=1ZPgOoIwsebe7HWJHlPGsDb1Z36eNxSt0" width="180" alt="Logo 7">
+</a>
+</td>
+
+<td align="center">
+<a href="https://drive.google.com/file/d/1vMSLlBWl2Tt_cZEbCpCGsKQa2C-FAQUL/view">
+<img src="https://drive.google.com/uc?export=view&id=1vMSLlBWl2Tt_cZEbCpCGsKQa2C-FAQUL" width="180" alt="Logo 8">
+</a>
+</td>
+</tr>
+</table>
 
 ## Process Automation
 
