@@ -48,23 +48,27 @@ Our mission is simple: to provide professional, reliable, and innovative service
       <img src="https://img.shields.io/badge/English-B2-1565C0?style=flat">
       <img src="https://img.shields.io/badge/Urdu-Native-8B0000?style=flat">
       </p>
-      <h3>Expertise</h3>
+      <h2>Expertise</h2>
+           --
      #### 🌐 Web Development
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white">
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white">
 <br>
+           
 #### 🎨 Graphic Design
 <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
 <br>
+
 #### 🎬 Video Editing
 <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white">
 <img src="https://img.shields.io/badge/Filmora-07273D?style=for-the-badge&logo=wondershare&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 <br>
+
 #### 📱 Community Manager
 <img src="https://img.shields.io/badge/Meta_Business_Suite-0467DF?style=for-the-badge&logo=meta&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
@@ -82,11 +86,13 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <img src="https://img.shields.io/badge/Lucidchart-FE7A16?style=for-the-badge">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <br>
+
 #### ⚡ Workflow Automation Specialist
 <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white">
 <br>
+
 <h4>📱 Android Developer</h4>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
@@ -109,7 +115,8 @@ Our mission is simple: to provide professional, reliable, and innovative service
       <img src="https://img.shields.io/badge/English-B2-1565C0?style=flat">
       <img src="https://img.shields.io/badge/Spanish-Native-2E7D32?style=flat">
       </p>
-      <h3>Expertise</h3>
+      <h2>Expertise</h2>
+        --
      <h4>📊 Data Analyst</h4>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
