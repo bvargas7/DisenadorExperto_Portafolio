@@ -244,52 +244,113 @@ Our mission is simple: to provide professional, reliable, and innovative service
 <br><br>
 ------
 <br>
-## WebDevelopment
+## 🌐 Web Development Portfolio
 
-<h2>🌐 Web Development Portfolio</h2>
+<table>
+<tr>
 
+<td width="50%">
 
-#### LANDING PAGES
+<div>
 
-- Commercial and Promotional Landing Pages
-- Landing Pages with Forms
-- Digital Product and Service Catalogs
-- Custom Website Development
+## 🚀 Landing Pages
 
-- http://citymanager.mx/index.php/home/
+**Types of Projects:**
 
-<br>
+- Commercial and promotional landing pages
+- Landing pages with forms
+- Digital product and service catalogs
+- Custom website development
 
-#### WEBSITE DEVELOPMENT
+**Projects:**
 
-- Corporate and Institutional Websites
-- https://smartbuildertx.com/
-- https://industrialsolutionsrf.com/
+🔗 http://citymanager.mx/index.php/home/
 
-<br>
+</div>
 
-#### WEB PAGES
+</td>
 
-- WordPress
-- PHP
-- Plugin Integration, Forms, Basic SEO, and Web Optimization
-- Payment Gateway Integration
+<td width="50%">
 
-- https://tamaulipasdirecto.com/
+<div>
 
-<br>
+## 🏢 Website Development
 
-#### E-COMMERCE DEVELOPMENT
+**Types of Projects:**
+
+- Corporate websites
+- Institutional websites
+- Business platforms
+- Custom web solutions
+
+**Projects:**
+
+🔗 https://smartbuildertx.com/  
+🔗 https://industrialsolutionsrf.com/
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<div>
+
+## 🖥️ Web Pages & CMS Development
+
+**Technologies & Services:**
+
+- WordPress development
+- PHP-based websites
+- Plugin integration
+- Forms implementation
+- Basic SEO optimization
+- Website performance optimization
+- Payment gateway integration
+
+**Projects:**
+
+🔗 https://tamaulipasdirecto.com/
+
+</div>
+
+</td>
+
+<td width="50%">
+
+<div>
+
+## 🛒 E-Commerce Development
+
+**Platforms:**
 
 - WooCommerce
 - Shopify
 
-- https://us.junaidjamshed.com/
-- https://www.trex.com.pk/?srsltid=AfmBOoqFOq_m0N3NCjl8O_bcNt4A_EfYa1DsOxpDiRIhCebqYqb8rK0C
-- https://bouchezjewelry.com/
+**Features:**
 
-  <br>
+- Product catalogs
+- Online stores
+- Payment integration
+- Customer purchase flows
 
+**Projects:**
+
+🔗 https://us.junaidjamshed.com/  
+🔗 https://www.trex.com.pk/  
+🔗 https://bouchezjewelry.com/
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
 
 
 <table width="100%" cellpadding="10" cellspacing="10">
