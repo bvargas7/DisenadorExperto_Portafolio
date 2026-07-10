@@ -286,6 +286,7 @@ Our mission is simple: to provide professional, reliable, and innovative service
 
 - https://us.junaidjamshed.com/
 - https://www.trex.com.pk/?srsltid=AfmBOoqFOq_m0N3NCjl8O_bcNt4A_EfYa1DsOxpDiRIhCebqYqb8rK0C
+- https://bouchezjewelry.com/
 
   <br>
 
@@ -502,10 +503,49 @@ alt="BestMark Website">
 </td>
 </tr>
 </table>
-
+<!----------------------------------Workflow Automation------------------------------------>
 ## Process Automation
+## Tools & Technologies
 
-Texto aquí...
+- Make.com
+- n8n
+- REST APIs
+- Webhooks
+- Telegram Bot API
+- JSON
+- Data Transformation
+- Workflow Design
+- Automation Architecture
+
+## Automation & Workflow Specialist
+
+I specialize in process automation and workflow design, creating efficient solutions through platforms such as Make.com, API integrations, Telegram bots, and custom automation systems.
+
+I have developed advanced workflows focused on reducing manual tasks, improving operational efficiency, and connecting different digital services into scalable automation ecosystems. While most of my implementations have been built using Make.com, my expertise is based on core automation principles including workflow logic, webhooks, REST APIs, data processing, error handling, and performance optimization, allowing me to quickly adapt to platforms like n8n and other automation environments.
+
+My approach combines process analysis, automation architecture, and technical implementation to build reliable solutions that help businesses reduce repetitive work, minimize errors, and improve productivity.
+
+
+### Technical Expertise
+
+* Workflow automation and process optimization
+* API integrations and third-party service connections
+* REST API consumption and data exchange
+* Webhooks implementation and event-driven workflows
+* Telegram bot automation
+* Data processing, transformation, and validation
+* Advanced error handling and workflow recovery strategies
+* Automation performance optimization and scalability
+
+### Automation Solutions Developed
+
+* Integrations between websites, applications, and external APIs
+* Automated notification and communication systems
+* Data synchronization between multiple platforms
+* Custom business process automation workflows
+* Automated reports, alerts, and operational tasks
+
+
 
 ## Quality Assurance
 
