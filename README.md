@@ -258,6 +258,8 @@ Our mission is simple: to provide professional, reliable, and innovative service
 - Digital Product and Service Catalogs
 - Custom Website Development
 
+- http://citymanager.mx/index.php/home/
+
 <br>
 
 #### WEBSITE DEVELOPMENT
@@ -273,6 +275,8 @@ Our mission is simple: to provide professional, reliable, and innovative service
 - Plugin Integration, Forms, Basic SEO, and Web Optimization
 - Payment Gateway Integration
 
+- https://tamaulipasdirecto.com/
+
 <br>
 
 #### E-COMMERCE DEVELOPMENT
@@ -280,9 +284,12 @@ Our mission is simple: to provide professional, reliable, and innovative service
 - WooCommerce
 - Shopify
 
+- https://us.junaidjamshed.com/
+- https://www.trex.com.pk/?srsltid=AfmBOoqFOq_m0N3NCjl8O_bcNt4A_EfYa1DsOxpDiRIhCebqYqb8rK0C
+
   <br>
 
-<h3>🖼️ Galería de Proyectos</h3>
+
 
 <table width="100%" cellpadding="10" cellspacing="10">
 
