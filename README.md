@@ -617,15 +617,6 @@ alt="BestMark Website">
 ## Automation & Workflow Specialist
 <h2>🤖 Workflow Process Automation</h2>
 
-- Make.com
-- n8n
-- REST APIs
-- Webhooks
-- Telegram Bot API
-- JSON
-- Data Transformation
-- Workflow Design
-- Automation Architecture
 <div style="text-align: justify;">
 I specialize in process automation and workflow design, creating efficient solutions through platforms such as Make.com, API integrations, Telegram bots, and custom automation systems.
 
@@ -634,24 +625,16 @@ I have developed advanced workflows focused on reducing manual tasks, improving 
 My approach combines process analysis, automation architecture, and technical implementation to build reliable solutions that help businesses reduce repetitive work, minimize errors, and improve productivity.
 </div>
 
-### Technical Expertise
-
-* Workflow automation and process optimization
-* API integrations and third-party service connections
-* REST API consumption and data exchange
-* Webhooks implementation and event-driven workflows
-* Telegram bot automation
-* Data processing, transformation, and validation
-* Advanced error handling and workflow recovery strategies
-* Automation performance optimization and scalability
-
-### Automation Solutions Developed
-
-* Integrations between websites, applications, and external APIs
-* Automated notification and communication systems
-* Data synchronization between multiple platforms
-* Custom business process automation workflows
-* Automated reports, alerts, and operational tasks
+| **Technical Expertise**                                  | **Automation Solutions Developed**                             |
+| -------------------------------------------------------- | -------------------------------------------------------------- |
+| Workflow automation and process optimization             | Integrations between websites, applications, and external APIs |
+| API integrations and third-party service connections     | Automated notification and communication systems               |
+| REST API consumption and data exchange                   | Data synchronization between multiple platforms                |
+| Webhooks implementation and event-driven workflows       | Custom business process automation workflows                   |
+| Telegram bot automation                                  | Automated reports, alerts, and operational tasks               |
+| Data processing, transformation, and validation          |                                                                |
+| Advanced error handling and workflow recovery strategies |                                                                |
+| Automation performance optimization and scalability      |                                                                |
 
   ## Automation Stack
 
