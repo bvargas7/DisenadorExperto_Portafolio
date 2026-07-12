@@ -937,6 +937,11 @@ Our QA approach focuses on preventing issues before release, ensuring applicatio
 <nr><nr><nr><br>
 
 <h2 align="center">🚀 Let's Work Together</h2>
+<p align="center">
+We are open to collaborations, freelance projects, and digital transformation opportunities.
+<br>
+Feel free to contact us and let's create something impactful together.
+</p>
 
 <p align="center">
 
