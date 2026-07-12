@@ -724,6 +724,8 @@ Our QA approach focuses on preventing issues before release, ensuring applicatio
 <!----------------------------------Team------------------------------------------------------->
 <nr><br>
 
+# 🧩 Team Members & Professional Skills
+
 <table width="100%">
   <tr>
        <td width="50%" align="center" valign="top">
