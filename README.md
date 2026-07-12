@@ -934,7 +934,7 @@ Our QA approach focuses on preventing issues before release, ensuring applicatio
 </table>
 
 <!-------------------------------Contact us-------------------------------------------->
-<nr><nr><nr>
+<nr><nr><nr><br>
 <h2 align="center">🚀 Let's Work Together</h2>
 
 <p align="center">
