@@ -935,13 +935,8 @@ Our QA approach focuses on preventing issues before release, ensuring applicatio
 
 <!-------------------------------Contact us-------------------------------------------->
 <nr><nr><nr><br>
-<h2 align="center">🚀 Let's Work Together</h2>
 
-<p align="center">
-We are open to collaborations, freelance projects, and digital transformation opportunities.
-<br>
-Feel free to contact us and let's create something impactful together.
-</p>
+<h2 align="center">🚀 Let's Work Together</h2>
 
 <p align="center">
 
@@ -949,10 +944,19 @@ Feel free to contact us and let's create something impactful together.
   <img src="https://img.shields.io/badge/Email-Contact%20Us-0078D4?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<a href="https://wa.me/528121763223">
+  <img src="https://img.shields.io/badge/WhatsApp-Contact%20Us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/blanca-vargasg">
+  <img src="https://img.shields.io/badge/LinkedIn-Blanca%20Vargas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 <a href="https://www.youtube.com/@DissenadorExperto">
   <img src="https://img.shields.io/badge/YouTube-Portfolio-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
+</p>
 </p>
 
 
