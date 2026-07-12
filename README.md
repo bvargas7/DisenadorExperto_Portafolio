@@ -630,16 +630,6 @@ Our approach combines creative design, video production, analytics, and digital 
 
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge\&logo=capcut\&logoColor=white)
 
-### Analytics & Management
-
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge\&logo=googleanalytics\&logoColor=white)
-
-![Meta Business Suite](https://img.shields.io/badge/Meta%20Business%20Suite-0467DF?style=for-the-badge\&logo=meta\&logoColor=white)
-
-![Buffer](https://img.shields.io/badge/Buffer-231F20?style=for-the-badge\&logo=buffer\&logoColor=white)
-
-![Hootsuite](https://img.shields.io/badge/Hootsuite-143059?style=for-the-badge\&logo=hootsuite\&logoColor=white)
-
 
 | **Social Media Platforms** | **Content Creation & Management Tools** |
 |----------------------------|----------------------------------------|
