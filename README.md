@@ -614,22 +614,6 @@ Our approach combines creative design, video production, analytics, and digital 
 <!-------------------------------Comunity Manager------------------------------------->
 ## 🛠️ Social Media Tools & Platforms
 
-### Social Platforms
-
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)
-
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)
-
-![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)
-
-### Content Creation
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
-
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge\&logo=capcut\&logoColor=white)
-
 
 | **Social Media Platforms** | **Content Creation & Management Tools** |
 |----------------------------|----------------------------------------|
