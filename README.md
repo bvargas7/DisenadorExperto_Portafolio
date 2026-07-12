@@ -21,13 +21,11 @@
     
 </p>
 
-## About Us
+# Digital Solutions Team
 
-<div style="text-align: justify;">
+### Web Development • Creative Design • Video Production • Workflow Automation • Quality Assurance
 
-We are a team of two professionals specializing in digital solutions that combine technology, creativity, and quality. With expertise in web development, graphic design, video production, workflow automation, and quality assurance, we help businesses transform ideas into effective digital experiences. Our focus is on delivering innovative, reliable, and high-quality solutions that streamline processes, strengthen brands, and support business growth.
-
-</div>
+We help businesses build, automate, and scale their digital presence through web development, creative design, content production, workflow automation, and quality assurance.
 
 <table width="100%">
   <tr>
